@@ -1,0 +1,17 @@
+.festival-detail-page {
+    text-align: center;
+    padding: 20px;
+    background-image: url('../assets/fest-bg.jpg');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+
+.festival-detail-image {
+    width: 100%;
+    max-width: 600px;
+    height: auto;
+    border-radius: 8px;
+    margin-bottom: 20px;
+}

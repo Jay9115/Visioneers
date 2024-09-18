@@ -1,0 +1,183 @@
+/* Import Raleway font */
+@import url('https://fonts.googleapis.com/css2?family=Raleway:wght@400;700&display=swap');
+
+/* General layout */
+.home-container {
+    display: flex;
+    min-height: 100vh;
+    font-family: 'Raleway', sans-serif; /* Apply Raleway font */
+    position: relative;
+    color: #fff;
+    background-image: url('../assets/background.jpg');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+
+.home-content {
+    flex: 1;
+    padding: 60px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    transition: margin-right 0.3s ease;
+    animation: fadeIn 1.5s ease;
+}
+
+.intro-video {
+    margin-bottom: 20px; /* Adjust spacing as needed */
+    margin-top: -15px;
+}
+
+.intro-video video {
+    max-width: 100%; /* Make video responsive */
+    height: auto; /* Maintain aspect ratio */
+}
+
+.home-content h1 {
+    font-size: 3.5rem;
+    margin-bottom: 20px;
+    color: #333;
+    text-align: center;
+    animation: slideIn 1s ease;
+}
+
+.home-content p {
+    font-size: 1.5rem;
+    margin-bottom: 30px;
+    color: #333;
+    text-align: center;
+    line-height: 1.6;
+}
+
+.home-content .button {
+    background-color: #f04f4f;
+    color: white;
+    padding: 15px 30px;
+    text-decoration: none;
+    border-radius: 5px;
+    font-size: 1.3rem;
+    box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.3);
+    transition: transform 0.3s ease, background-color 0.3s ease;
+    display: inline-block;
+    margin: 20px auto; /* Centers the button horizontally */
+}
+
+.home-content .button:hover {
+    background-color: #d14242;
+    transform: scale(1.05);
+    box-shadow: 0px 6px 12px rgba(0, 0, 0, 0.4);
+}
+
+/* Facts Section */
+.facts-section {
+    margin-top: 150px;
+    background-color: rgba(0, 0, 0, 0.75);
+    padding: 30px;
+    border-radius: 15px;
+    animation: fadeIn 1.5s ease-in-out;
+    box-shadow: 0px 4px 12px rgba(0, 0, 0, 0.4);
+    width: 100%;
+    min-width: 1000px;
+}
+
+.facts-section h2 {
+    font-size: 2.5rem;
+    margin-bottom: 20px;
+    color: #fff;
+    text-align: center;
+}
+
+.facts-section ul {
+    list-style-type: disc;
+    padding-left: 40px;
+    font-size: 1.3rem;
+    color: #fff;
+}
+
+.facts-section ul li {
+    margin-bottom: 15px;
+    line-height: 1.6;
+    position: relative;
+}
+
+.facts-section ul li:before {
+    content: '⭐';
+    position: absolute;
+    left: -30px;
+    color: #f04f4f;
+}
+
+/* About & Contact Section */
+.bottom-section {
+    display: flex;
+    justify-content: space-between;
+    margin-top: 150px;
+    background-color: rgba(255, 255, 255, 0.9);
+    padding: 40px;
+    border-radius: 15px;
+    box-shadow: 0px 4px 12px rgba(0, 0, 0, 0.3);
+    width: 100%;
+}
+
+.about-us, .contact-us {
+    width: 45%;
+}
+
+.about-us h3, .contact-us h3 {
+    font-size: 2rem;
+    margin-bottom: 20px;
+    color: #333;
+}
+
+.about-us p, .contact-us p {
+    font-size: 1.1rem;
+    color: #333;
+    line-height: 1.6;
+}
+
+.contact-us form {
+    display: flex;
+    flex-direction: column;
+}
+
+.contact-us input, .contact-us textarea {
+    margin-bottom: 15px;
+    padding: 12px;
+    font-size: 1.1rem;
+    border: 1px solid #ccc;
+    border-radius: 8px;
+    transition: border-color 0.3s ease;
+}
+
+.contact-us input:hover, .contact-us textarea:hover {
+    border-color: #f04f4f;
+}
+
+.contact-us button {
+    background-color: #f04f4f;
+    color: white;
+    padding: 12px;
+    border: none;
+    border-radius: 8px;
+    cursor: pointer;
+    transition: background-color 0.3s ease, box-shadow 0.3s ease;
+}
+
+.contact-us button:hover {
+    background-color: #d14242;
+    box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.2);
+}
+
+/* Animations */
+@keyframes fadeIn {
+    from { opacity: 0; }
+    to { opacity: 1; }
+}
+
+@keyframes slideIn {
+    from { transform: translateY(-20px); }
+    to { transform: translateY(0); }
+}

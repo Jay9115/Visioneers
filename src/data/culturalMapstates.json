@@ -1,0 +1,1007 @@
+[{
+  "_id": {
+    "$oid": "66db4e6d89ca6b5ebd9ab448"
+  },
+  "name": "Andhra Pradesh",
+  "capital": "Amaravati",
+  "info": "Known for its rich history and cultural heritage.",
+  "culturalDetails": "Famous for Kuchipudi dance and Tirupati Temple.",
+  "photoUrl": "https://i.imgur.com/us6DafN.jpeg",
+  "monuments": [
+    {
+      "name": "Tirupati Venkateshwara Temple",
+      "description": "Situated in the Chittoor district of Andhra Pradesh, Tirupati is known for Lord Venkateshwara Temple, one of the most visited pilgrimage centers in the world. It is also one of the world's richest temples known by different names - Tirumala Temple, Tirupati Temple, and Tirupati Balaji Temple. Tirumala is one of the seven hills in Tirupati, where the main temple is located. The temple is believed to be where Lord Venkateshwara took the form of an idol and is home to the deity Govinda.It is Spread over an area of 26 kilometers and is visited by nearly 50,000 pilgrims daily. The non-stop chanting of ‘Om Namo Venkatesaya,’ the mad pilgrim rush, and the 8-feet tall idol of Lord Venkateshwara – everything about the Sri Venkateshwara Temple is majestic.",
+      "photoUrl": "https://cdn.thisday.app/media/uploads/0_B933_DB_7_70_C2_48_D2_AEC_3_CC_02_A74_DFC_5_A_402c78ba6a.jpeg"
+    },
+    {
+      "name": "Chandragiri Fort",
+      "description": "Chandragiri is now famous for the historical  fort, built in the 11th century, and the Raja Mahal (Palace) within it. The fort encircles eight ruined temples of Saivite and Vaishnavite pantheons, Raja Mahal, Rani Mahal and other ruined structures. The Raja Mahal Palace is now an archaeological museum. The fort and palace are in the care of the Archaeological Survey of India. There is also a myth that out of the wealth collected from the Muslim women in the fort, their nose rings alone filled 3 whole bamboo buckets, which were then sealed in a two-stone locker and placed in Kurudumale, (in Karnataka) With the Sultan's death, Chandragiri fell under Mysore suzerainty.",
+      "photoUrl": "https://www.muthutourism.com/img/placevisit/large/tiru2.jpg"
+    },
+    {
+      "name": " Amaravati",
+      "description": "Known as the Capital of Andhra Pradesh, Amaravati is a planned city on the banks of the River Krishna. Amaravati is renowned for being a site of a Buddhist Stupa that is a semi-hemispherical structure containing Buddhist relics and often called the Abode of God. Located 32 kilometres north of Guntur District, Amaravati is a prime hub of pilgrimage and sightseeing. The original structure was established during the reign of Emperor Ashoka which is now a meditation site in the city.Being built on a 217km riverfront, the city is designed to have 51% of green spaces. Its foundation stone was laid on 22 October 2015 by prime Minister Narendra Modi.The word Amaravathi in itself was derived from the ancient capital of Satavahana dynasty. Pilgrims visit this town almost throughout the year owing to the number of temples and shrines that adorn the little town in different parts.",
+      "photoUrl": "https://cdn.gulte.com/wp-content/uploads/2024/06/Buddhastatue_Vijaywada_DJI_0150-scaled.webp"
+    }
+  ],
+  "outro": "Andhra Pradesh is a vibrant state with a rich blend of tradition and modernity."
+},
+{
+  "_id": {
+    "$oid": "66db4e6d89ca6b5ebd9ab449"
+  },
+  "name": "Arunachal Pradesh",
+  "capital": "Itanagar",
+  "info": "Known for its diverse tribal cultures and scenic beauty.",
+  "culturalDetails": "Known for the Tawang Monastery and various festivals like Losar.",
+  "photoUrl": "https://example.com/photos/arunachal-pradesh.jpg",
+  "monuments": [
+    {
+      "name": "Tawang Monastery",
+      "description": "Tawang Monastery is a Buddhist monastery located in Tawang, Arunachal Pradesh, India. It is the largest monastery in the country. It is situated in the valley of the Tawang Chu, in close proximity to the Chinese and Bhutanese border.Tawang Monastery is known in Tibetan as Gaden Namgyal Lhatse, which translates to 'the divine paradise of complete victory'. It was founded by Merak Lama Lodre Gyatso in 1680–1681 in accordance with the wishes of the 5th Dalai Lama, Ngawang Lobsang Gyatso. It belongs to the Gelug school of Vajrayana Buddhism and had a religious association with Drepung Monastery of Lhasa, which continued during the period of British rule.The monastery is three stories high. It is enclosed by a 925 feet (282 m) long compound wall. Within the complex there are 65 residential buildings. The library of the monastery has valuable old scriptures, mainly Kangyur and Tengyur.",
+      "photoUrl": "https://www.kipepeo.in/blog/wp-content/uploads/2019/07/tawang-monastery.jpg"
+    },
+    {
+      "name": "Bomdila Monastery",
+      "description": "Bomdila Monastry is one of the most famous monasteries in Arunachal Pradesh, North East India. It is an abode of Buddhist Lamas and monks whose foundation was laid in 1965. It was built by the 12th reincarnate of Tsong Gontse Rinpoche. This monastery belongs to Mahayana Buddhism. It is also known as the Gentse Gaden Rabgyel Lling monastery. It is a replica of the Tsona Gontse monastery at Tsona in Tibet. A prayer hall was later added to the monastery by the 13th reincarnate of Tsona Gontse Rinpoche.",
+      "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/0/06/Bomdila_Monastery.jpg"
+    },
+    {
+      "name": "Ziro Valley",
+      "description": "Located in the picturesque state of Arunachal Pradesh, Ziro is a tranquil valley town renowned for its stunning landscapes, rich cultural heritage, and vibrant festivals. Situated approximately 115 kilometers from the capital city of Itanagar, Ziro captivates visitors with its lush greenery, sprawling rice fields, and mist-covered hills. Ziro valley is mainly inhabited by the Apatani tribe, famous for their colorful culture with various festivals, intricate handloom designs, skills in cane and bamboo crafts, and vibrant traditional village councils called bulyañ.",
+      "photoUrl": "https://plutotours.in/places/wp-content/uploads/2023/12/ziro-valley-tourism.webp"
+    }
+  ],
+  "outro": "Arunachal Pradesh offers breathtaking landscapes and a unique cultural experience."
+},
+{
+  "_id": {
+    "$oid": "66db4e6d89ca6b5ebd9ab44a"
+  },
+  "name": "Assam",
+  "capital": "Dispur",
+  "info": "Renowned for its tea gardens and wildlife.",
+  "culturalDetails": "Famous for Bihu festival and Kaziranga National Park.",
+  "photoUrl": "https://example.com/photos/assam.jpg",
+  "monuments": [
+    {
+      "name": "Kaziranga National Park",
+      "description": "Kaziranga National Park is a national park in the Golaghat and Nagaon districts of the state of Assam, India. The park, which hosts two-thirds of the world's Indian rhinoceroses, is a UNESCO World Heritage Site.[2]  Kaziranga National Park was declared a Tiger Reserve in 2006. The park is home to large breeding populations of elephants, wild water buffalo, and swamp deer. Kaziranga is a vast expanse of tall elephant grass, marshland, and dense tropical moist broadleaf forests, criss-crossed by four major rivers, including the Brahmaputra, and the park includes numerous small bodies of water. ",
+      "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Beauty_of_Kaziranga_National_Park.jpg/1280px-Beauty_of_Kaziranga_National_Park.jpg"
+    },
+    {
+      "name": "Kamakhya Temple",
+      "description": "The Kamakhya temple, located at a distance of 7 km from Guwahati, is one of the biggest Shakti shrines in the country. Situated on the Nilachal hills, this temple is an important pilgrimage centre for tantric worshippers and Hindus. It is also considered important as it is the temple where the beliefs and practices of the Aryan communities coincide with non-Aryan communities.The former temple was destroyed by Kala Pahar, which was later reconstructed in 1565 by Chilarai, who was the reigning king of the Koch dynasty. This temple is dedicated to different forms of Mother Shakti, namely Sundari, Tripura, Tara, Bhuvaneshvari, Bagalamukhi and Chinnamasta. Comprising three major chambers, the present structure is considered as a sacred complex. here are several legends and myths associated with this temple. According to one of the popular legends, it is believed that the reproductive organ of Sati settled on the earth at this place, which was followed by her death. On the other hand, a other popular belief states that this temple is associated with Goddess Kali.",
+      "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/d/dc/Kamakhya_Temple%2C_Guwahati.jpg"
+    },
+    {
+      "name": "Sivasagar",
+      "description": "'Sivasagar' -Earlier known as 'Rangpur', the historical city of Assam is situated 363 K.M. east of Guwahati (The capital of Assam). Earlier  Sivasagar was the capital of the mighty Ahoms, who ruled Assam for more than six hundred years before the advent of the British. The most remarkable landscape of the town is the 200 year old Sibsagar tank. On its banks are three temples-- the Shivadol, the Vishnudol and the Devidol-- all three built by Queen Madambika, wife of Siva Singha, in the year 1734. The Shivadol is believed to be the highest Siva Temple in India, having a height of 104 feet and the perimeter 195 feet. he tank is situated in the heart of the town but the water level is above the level of the town.",
+      "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Shiva_Dol.jpg/800px-Shiva_Dol.jpg"
+    }
+  ],
+  "outro": "Assam is a state of lush green landscapes and vibrant festivals."
+},
+{
+  "_id": {
+    "$oid": "66db4e6d89ca6b5ebd9ab44b"
+  },
+  "name": "Bihar",
+  "capital": "Patna",
+  "info": "Has a rich historical and cultural heritage.",
+  "culturalDetails": "Known for Bodh Gaya and the ancient Nalanda University.",
+  "photoUrl": "https://example.com/photos/bihar.jpg",
+  "monuments": [
+    {
+      "name": "Bodh Gaya",
+      "description": "Bodh Gaya, town, southwestern Bihar state, northeastern India. It is situated west of the Phalgu River, a tributary of the Ganges (Ganga) River. Bodh Gaya contains one of the holiest of Buddhist sites: the location where, under the sacred pipal, or Bo tree, Gautama Buddha (Prince Siddhartha) attained enlightenment and became the Buddha. A simple shrine was built by the emperor Ashoka (3rd century bce) to mark the spot, and this was later enclosed by a stone railing (1st century bce), part of which still remains. Since antiquity, Bodh Gayā has remained the object of pilgrimage and veneration, for both Hindus and Buddhists.",
+      "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Mahabodhitemple.jpg/800px-Mahabodhitemple.jpg"
+    },
+    {
+      "name": "Nalanda University",
+      "description": "Nalanda was a renowned Buddhist mahavihara in ancient and medieval Magadha (modern-day Bihar), eastern India. Widely considered to be among the greatest centres of learning in the ancient world, it was located near the city of Rajagriha (now Rajgir), roughly 90 kilometres (56 mi) southeast of Pataliputra (now Patna). The architectural design was chosen on the basis of a global competition. The jury consisting of architects including Liu Thai Ker chose Pritzker Prize laureate BV Doshi's firm, Vastu Shilpa Consultants as the winner of the design competition. The first chancellor of the university was Amartya Sen, followed by former Singapore Minister for Foreign Affairs George Yeo.",
+      "photoUrl": "https://whc.unesco.org/uploads/thumbs/site_1502_0010-1200-630-20160616154106.jpg"
+    },
+    {
+      "name": "Patna Museum",
+      "description": "Patna Museum is the state museum of the Indian state of Bihar. Founded on 3 April 1917 during the British Raj to house the historical artefacts found in the vicinity of Patna, it is constructed in the style of Mughal and Rajput architecture, and is known locally as the Jadu Ghar. Artefacts from the ancient India era to 1764 have now been transferred to Bihar Museum. Items on display in the multipurpose museum include archaeological objects, coins, art objects, paintings, instruments, textiles, paintings, thankas, bronze images and sculptures and terra cotta images by Hindu and Buddhist artists. It has a rare collection of British-period paintings depicting day-to-day life, as well as a fine collection related to the first President of India, Rajendra Prasad. It also houses a World War I cannon.",
+      "photoUrl": "https://cdnbbsr.s3waas.gov.in/s337d097caf1299d9aa79c2c2b843d2d78/uploads/2019/09/2023012053.jpg"
+    }
+  ],
+  "outro": "Bihar is a treasure trove of ancient history and spiritual significance."
+},
+{
+  "_id": {
+    "$oid": "66db4e6d89ca6b5ebd9ab44c"
+  },
+  "name": "Chhattisgarh",
+  "capital": "Raipur",
+  "info": "Known for its natural resources and tribal culture.",
+  "culturalDetails": "Famous for the Bastar Dussehra and tribal arts.",
+  "photoUrl": "https://example.com/photos/chhattisgarh.jpg",
+  "monuments": [
+    {
+      "name": "Bastar Dussehra",
+      "description": "The Bastar Dussehra is a distinctive festival celebrated in Chhattisgarh. Unlike the Dussehra celebrated in other regions of India, this festival doesn't symbolize the victory of Lord Ram over Ravana; rather, it's a celebration devoted to Goddess Durga, serene in her power and spirituality. Stretching over 75 days, it is considered the longest Dussehra celebration in the world. Beginning with 'Pata Jatra,' the worship of the wood, the significance of rituals and tribal performances in this festival resonates with the tribal community's respect towards nature’s gifts. A massive two-tiered chariot is built by special carpenters which is beautifully decorated and pulled through the streets by as many 400 people.",
+      "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/c/c2/Bastar_Dusshera_Unexplored_Bastar.jpg"
+    },
+    {
+      "name": "Chitrakoot Waterfall",
+      "description": "The famous Chitrakot falls ,”Niagra of India” is visible in every season, but seeing it in the rainy season is a more exciting experience. The roar of huge water from the height of the rain creates thrills and shudder. During the July-October period, it is appropriate for visitors to come here. Dense forest surrounds the picturesque waterfalls. , Which further enhances its natural beauty. The huge Indravati river feeds the Chitrakoot waterfalls. These waterfalls fall from around 93 feet and are located in the Bastar region.",
+      "photoUrl": "https://images.app.goo.gl/CzY37Ks2txo66mwC6"
+    },
+    {
+      "name": "Kanger Valley National Park",
+      "description": "It is a friendly place for high mountains, deep valleys, giant trees and various species of wildlife. Kanger Valley National Park is a typical  mixed humid deciduous type of forest, in which the Sal, Saugaun, teak and bamboo trees are available in abundance. The most popular species  in this area is Bastar Maina  which  enchant everyone with their human voice  . The state bird, Bastar Maina, is a type of Hill maina (gruncula Dhariosoa), which is capable of emulating the human voices. Tirathgarh Waterfall is located in Kanger Valley National Park. Apart from wildlife and plants, this National Park is home to three exceptional caves – famous for their  amazing geological structures of Kutumbasar, Kailash and Dandak- Stellagmites and Stalactitees.",
+      "photoUrl": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0d/47/df/43/20161012-102034-largejpg.jpg?w=1200&h=1200&s=1"
+    }
+  ],
+  "outro": "Chhattisgarh is a land of natural beauty and rich cultural traditions."
+},
+{
+  "_id": {
+    "$oid": "66db4e6d89ca6b5ebd9ab44d"
+  },
+  "name": "Goa",
+  "capital": "Panaji",
+  "info": "Famous for its beaches and Portuguese heritage.",
+  "culturalDetails": "Known for vibrant festivals like Carnival and beautiful churches.",
+  "photoUrl": "https://example.com/photos/goa.jpg",
+  "monuments": [
+    {
+      "name": "Basilica of Bom Jesus",
+      "description": "The Basilica of Bom Jesus is among the group of “Churches and Convents of Goa” listed as a World Heritage site in 1986. The church is called “Bom Jesus” meaning ‘good Jesus’ or ‘infant Jesus’ to whom it is dedicated. The Basilica is famous for keeping the mortal remains of St. Francis Xavier for more than over 500 years now. It is open for public viewing all year round in the church and the church itself is hundreds of years old. This Jesuit church is India's first minor basilica, and is considered to be one of the best examples of baroque architecture and Portuguese colonial architecture in India. It is one of the Seven Wonders of Portuguese Origin in the World.",
+      "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/6/6b/Basilica_of_Bom_Jesus_1_%28Old_Goa%29.jpg"
+    },
+    {
+      "name": "Fort Aguada",
+      "description": "Fort Aguada is a well-preserved seventeenth-century Portuguese-era fort, along with a lighthouse, standing in Goa, India, on Sinquerim Beach, overlooking the Arabian Sea. Fort Aguada was the most prized and crucial fort of Portuguese. The fort is so large that it envelops the entire peninsula at the southwestern tip of Bardez. Built on the mouth of Mandovi River, it was strategically located and was the chief defense of Portuguese against the Dutch. Every vantage point within the fort is a sight worth visiting.",
+      "photoUrl": "https://goa-tourism.org.in/images/places-to-visit/headers/fort-aguada-goa-entry-fee-timings-holidays-reviews-header.jpg"
+    },
+    {
+      "name": "Dudhsagar Waterfall",
+      "description": "Dudhsagar Falls literally translates to “sea of milk” owing to its milky white color. Amidst the Mollem National Park or rather the Bhagwan Mahaveer Sanctuary you will find the majestic and stunningly flowing Dudhsagar Falls. A spectacular view for the domestic and foreign tourists is the Mandovi River spouting down from the steep side of the mountain from over 1017 feet. The Mandovi River originates on the Deccan Plateau in Karnataka and finds its way through the Western Ghats. The months from October to May is the best time to Visit Dudhsagar trip.",
+      "photoUrl": "https://www.raptorholidays.com/cdn/shop/products/2_a94ffcb3-9461-42d6-a354-6d3eeb44b8ed_1024x1024.jpg?v=1485948671"
+    }
+  ],
+  "outro": "Goa is a paradise for beach lovers and history enthusiasts alike."
+},
+{
+  "_id": {
+    "$oid": "66db4e6d89ca6b5ebd9ab44e"
+  },
+  "name": "Gujarat",
+  "capital": "Gandhinagar",
+  "info": "Known for its vibrant culture and economic development.",
+  "culturalDetails": "Famous for the Gir National Park and traditional Garba dance.",
+  "photoUrl": "https://example.com/photos/gujarat.jpg",
+  "monuments": [
+    {
+      "name": "Gir National Park",
+      "description": "Home to the ever-charming Asiatic Lions, the Gir National Park is the only national park in India that nurtures these royal animals. It covers a total area of 258 square kilometres specially regarded as the protected area for these lions. Besides Africa, Gir National Park in Gujarat is the only place in the world where you can spot lions roaming free in the wild. The count of 2,375 distinct fauna species of Gir includes about 38 species of mammals, around 300 species of birds, 37 species of reptiles and more than 2,000 species of insects.",
+      "photoUrl": "https://www.girnationalpark.in/uploads/kingdom-of-asiatic-lions.jpg"
+    },
+    {
+      "name": "Rani ki Vav",
+      "description": "Rani-ki-Vav, on the banks of the Saraswati River, was initially built as a memorial to a king in the 11th century AD. It is located in Gujarat. It is an exceptional example of a distinctive form of subterranean water architecture of the Indian subcontinent. The stepwell is said to have been constructed by Udayamati, the widowed Queen of Bhimdev I (AD 1022 to 1063), around 1050 AD in memory of the king. Rani ki vav features on the new 200 rupee note issues by rbi. It has been designed as an inverted temple and is divided into 7 levels with sculptural panels of unmatched artistic quality.",
+      "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/a/a5/Rani_ki_vav_02.jpg"
+    },
+    {
+      "name": "Somnath Temple",
+      "description": "Dedicated to Lord Shiva, the Somnath Temple is one of the most important spiritual sites in the Hindu circuit. Believed to be the first of the 12 jyotirlingas (devotional shrines of Lord Shiva) in the country, the temple sees a large footfall every. Somnath Temple has a long and turbulent history, as it was destroyed and rebuilt several times by various invaders and rulers. The temples lies at the meeting of Kapila, Hiran and Sarasvati rivers and the waves of the Arabian Sea ebb and flow touching the shore on which it is constructed.",
+      "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Somanath_Temple.jpg/350px-Somanath_Temple.jpg"
+    }
+  ],
+  "outro": "Gujarat is a state of rich heritage, vibrant festivals, and economic growth."
+},
+{
+  "_id": {
+    "$oid": "66db4e6d89ca6b5ebd9ab44f"
+  },
+  "name": "Haryana",
+  "capital": "Chandigarh",
+  "info": "Known for its agricultural productivity and cultural festivals.",
+  "culturalDetails": "Famous for the Haryanvi dance forms and traditional festivals.",
+  "photoUrl": "https://example.com/photos/haryana.jpg",
+  "monuments": [
+    {
+      "name": "Sultanpur National Park",
+      "description": "Sultanpur Bird Sanctuary is a very popular national park of India. Nearly three thousand species migrate to India due to seasonal changes, Among these approximately 250 species of Birds are found at Sultanpur Bird Sanctuary. Some of them are resident, while others come from distant regions like Siberia, Europe and Afghanistan. Migratory species reach here after covering incredible distance, since there home land in Europe, Siberia and Central Asia becomes inhabitable due to cold temperature, snow covered ground and frozen lakes. Migratory birds start arriving in the park in September. Birds use park as a resting place till the following March-April. During summer and monsoon months the park is inhabited by many local bird species. A total of around 250 bird species have been reported in the park.",
+      "photoUrl": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/05/04/04/fc/bird-sanctuary-sultanpur.jpg?w=700&h=-1&s=1"
+    },
+    {
+      "name": "Kurukshetra ",
+      "description": "A city in the state of Haryana, Kurukshetra, also known as Dharmakshetra is known as the 'Land of the Bhagavad Gita'. Situated 170 km north to Delhi, the place is famous for the battle between the Kauvaras and the Pandavas in the Hindu epic, Mahabharata. It is the place where Lord Krishna is said to have recited the Bhagavad Gita to Arjuna. Kurukshetra was one of the most important centres for Vedic civilization as well as education.  Kurukshetra was also called Thanesar or Sthaneswar, meaning 'place of God'. The place is famous for its temples, lakes and museums documenting the history of pre-Harappan and Harappan civilisations.",
+      "photoUrl": "https://www.crowdsourcedexplorer.com/wp-content/uploads/2021/04/Kurukshetra-Haryana-India-101403-scaled.jpg"
+    },
+    {
+      "name": "Panipat",
+      "description": "Located at a distance of 90 km from Delhi, Panipat is known for the three historical battles that were fought here. Innumerable monument, forts, temples and its magnificent historical connections make Panipat in Haryana an interesting tourist destination. Also known as 'City of Weavers', and 'Textile City', this is an important city for textile production. Panipat was one of the five cities (prasthas) founded by Pandava brothers during the times of Mahabharata. The ruins of the Old Fort belonging to the Islamicate rule, the Kabuli Shah Mosque, Ibrahim Lodhi's grave and the tomb of Bu Ali Shah  Kalandar is sure to bring out the archaeologist in you and leave you with enlightened with some overwhelming historical magnificence.",
+      "photoUrl": "https://media-cdn.tripadvisor.com/media/photo-c/1280x250/07/fe/ff/e8/bu-ali-shah-kalandar.jpg"
+    }
+  ],
+  "outro": "Haryana is a dynamic state with a mix of modernity and tradition."
+},
+{
+  "_id": {
+    "$oid": "66db4e6d89ca6b5ebd9ab450"
+  },
+  "name": "Himachal Pradesh",
+  "capital": "Shimla",
+  "info": "Known for its beautiful hill stations and temples.",
+  "culturalDetails": "Famous for Shimla, Manali, and the Kullu Dussehra festival.",
+  "photoUrl": "https://example.com/photos/himachal-pradesh.jpg",
+  "monuments": [
+    {
+      "name": "Shimla",
+      "description": "Shimla is the capital and the largest city of the northern Indian state of Himachal Pradesh. In 1864, Shimla was declared the summer capital of British India. After independence, the city became the capital of East Punjab and was later made the capital city of Himachal Pradesh. It is the principal commercial, cultural and educational centre of the state. Shimla has seen many important historical events such as the famous Shimla Pact between India and Pakistan which was signed here. The place is also famous for its natural beauty, architectural buildings, wooden crafts and apples.",
+      "photoUrl": "https://static.toiimg.com/thumb/msid-102383896,width-748,height-499,resizemode=4,imgsize-238460/.jpg"
+    },
+    {
+      "name": "Manali",
+      "description": "Manali is a town, near Kullu town in Kullu district in the Indian state of Himachal Pradesh. It is situated in the northern end of the Kullu Valley, formed by the Beas River. The town is located in the Kullu district, approximately 270 kilometres (170 mi) north of the state capital of Shimla and 544 kilometres (338 mi) northeast of the national capital of New Delhi. Manali is the real starting point of an ancient trade route which crosses the Rohtang and Baralacha passes, and runs via Lahul and Ladakh to Kashmir while divergent road connects it with Spiti.",
+      "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/0/03/Manali_City.jpg"
+    },
+    {
+      "name": "Hidimba Devi Temple",
+      "description": "Hidimba Devi Temple, locally known as Dhungari Temple,[1] also known variously as the Hadimba Temple, is a Hindu Temple, located in Manāli, a hill station in the State of Himāchal Pradesh in north India. It is an ancient cave temple dedicated to Hidimbi Devi, wife of Bhima, a figure in the Indian epic Mahābhārata. The temple is surrounded by a cedar forest called Dhungiri Van Vihar at the foot of the Himālayas. The sanctuary is built over a huge rock jutting out of the ground which was worshiped as an image of the deity. The structure was built in 1553 by Maharaja Bahadur Singh. The Hidimba Devi temple is 24 meters tall.",
+      "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Hidimba_Devi_Temple_-_North-east_View_-_Manali_2014-05-11_2648-2649.TIF/lossy-page1-1200px-Hidimba_Devi_Temple_-_North-east_View_-_Manali_2014-05-11_2648-2649.TIF.jpg"
+    }
+  ],
+  "outro": "Himachal Pradesh is a haven for nature lovers and adventure seekers."
+},
+{
+  "_id": {
+    "$oid": "66db4e6d89ca6b5ebd9ab451"
+  },
+  "name": "Jharkhand",
+  "capital": "Ranchi",
+  "info": "Known for its mineral resources and tribal culture.",
+  "culturalDetails": "Famous for its rich natural resources and cultural diversity.",
+  "photoUrl": "https://example.com/photos/jharkhand.jpg",
+  "monuments": [
+    {
+      "name": "Jubilee Park",
+      "description": "Jubilee Park is an urban park located in Jamshedpur, Jharkhand, India.[1] It is a popular destination for all those who wish to have an outdoor picnic, enjoy some outdoor activities and games or even just to have a relaxing day out with friends and family.[2] Popular amongst joggers and cyclists, it is a gigantic park, recreation centre, fountains and a zoo, amongst other attractions. This park was originally a gift to the town of Tatanagar(Jamshedpur) from the Tata Steel Company. While being built under the visionary Jamsetji Tata, the Brindavan Gardens in Mysore were used as an inspiration. This park also shows off a status of Jamsetji Tata and is also known as the Mughal Gardens of Jamshedpur.",
+      "photoUrl": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/11/e2/a5/9a/jubilee-park.jpg?w=1200&h=1200&s=1"
+    },
+    {
+      "name": "Baidyanath Temple",
+      "description": "Baidyanath Temple also known as Baba Baidyanath Dham, is a Hindu temple dedicated to Shiva. It is located in Deoghar, in the Santhal Parganas division of the Indian state of Jharkhand.[1] The temple complex comprises the central shrine of Baba Baidyanath along with 21 additional temples. It is significant to the Hindu sects of Shaivism as this temple is referred to as one of the twelve Jyotirlingas.  On a normal day, the worshipping of Baidyanath Jyotirlingam begins at 4 AM. The temple doors open at this time. At 4:00 am the 'patt' of Baidyanath Jyotirlingam opens and for the very sharp 15 minutes the 'Panda' (priest's families) offer Kacha Jal to LORD SHIVA, during 4:15am to 5:40 am, the Head priest worships with Shodashopachar. Locals also call it Sarkari Pooja. Then the devotees begin their worship of the Shivalinga.",
+      "photoUrl": "https://templeyatri.in/wp-content/uploads/2024/07/baidyanath-dham-deoghar.jpg"
+    },
+    {
+      "name": "Hazaribagh National Park",
+      "description": "Hazaribagh Wildlife Sanctuary is a wildlife sanctuary in Jharkhand, India, about 55 miles (89 km) north of Ranchi. It was established in 1955. Nestling in low hilly terrain, at an average altitude of 615 metres (2,018 ft), it has an area of 184 km2 (71 sq mi) and is home to sambar, nilgai, chital, peafowl, sloth bears, black bears, hyenas and pigeons.[3] Earlier it was home to tigers, leopards, and many more animals but now rarely animals other than nilgai and hyena are seen. It is known that many foreigners also used to visit the then-called National Park, but due to lack of care by government, it has become mere a forest. Very few tourists can be seen now. Hazaribagh, which was known as a tourist destination, is now losing its title.",
+      "photoUrl": "https://www.holidify.com/images/cmsuploads/compressed/India_Tiger_cubs_20170423133624.jpg"
+    }
+  ],
+  "outro": "Jharkhand is a state of natural beauty and rich cultural traditions."
+},
+{
+  "_id": {
+    "$oid": "66db4e6d89ca6b5ebd9ab452"
+  },
+  "name": "Karnataka",
+  "capital": "Bengaluru",
+  "info": "Known for its IT industry and historic temples.",
+  "culturalDetails": "Famous for Hampi, Mysore Palace, and rich Kannada culture.",
+  "photoUrl": "https://example.com/photos/karnataka.jpg",
+  "monuments": [
+    {
+      "name": "Hampi",
+      "description": "Hampi  also referred to as the Group of Monuments at Hampi, is a UNESCO World Heritage Site located in Hampi (City), Ballari district now Vijayanagara district, east-central Karnataka, India. Hampi predates the Vijayanagara Empire; it is mentioned in the Ramayana and the Puranas of Hinduism as Pampa Devi Tirtha Kshetra.[3][4] Hampi continues as a religious centre, with the Virupaksha Temple, an active Adi Shankara-linked monastery and various monuments belonging to the old city. Hampi was the capital of the Vijayanagara Empire from 1336 to 1565, when it was abandoned.[3] It was a fortified city. Chronicles left by Persian and European travellers, particularly the Portuguese, say that Hampi was a prosperous, wealthy and grand city near the Tungabhadra River, with numerous temples, farms and trading markets.  ",
+      "photoUrl": "https://www.smitabhattacharya.com/wp-content/uploads/2018/11/pavan-kumaar-9eZ7rB42xow-unsplash-scaled.jpg"
+    },
+    {
+      "name": "Mysore Palace",
+      "description": "Mysore Palace, also known as Amba Vilas Palace, is a historical palace and a royal residence. It is located in Mysore, Karnataka, India. It used to be the official residence of the Wadiyar dynasty and the seat of the Kingdom of Mysore. The palace is in the centre of Mysore, and faces the Chamundi Hills eastward. Mysore is commonly described as the 'City of the Palaces', and there are seven palaces including this one. However, the Mysore Palace refers specifically to the one within the new fort. The land on which the palace now stands was originally known as mysuru (literally, 'citadel').  The Old Fort was built of wood and thus easily caught fire, while the current fort was built of stone, bricks and wood. ",
+      "photoUrl": "https://plus.unsplash.com/premium_photo-1697730494992-7d5a0c46ea52?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8bXlzb3JlJTIwcGFsYWNlfGVufDB8fDB8fHww"
+    },
+    {
+      "name": "Badami Caves",
+      "description": "The Badami cave temples are a complex of Buddhist, Hindu and Jain cave temples located in Badami, a town in the Bagalkot district in northern part of Karnataka, India. The caves are important examples of Indian rock-cut architecture, especially Badami Chalukya architecture, and the earliest date from the 6th century. Badami is a modern name and was previously known as 'Vataapi', the capital of the early Chalukya dynasty, which ruled much of Karnataka from the 6th to the 8th century. The Badami cave temples represent some of the earliest known examples of Hindu temples in the Deccan region. They along with the temples in Aihole transformed the Mallaprabha River valley into a cradle of temple architecture that influenced the components of later Hindu temples elsewhere in India.",
+      "photoUrl": "https://static.toiimg.com/photo/msid-99233273,width-96,height-65.cms"
+    }
+  ],
+  "outro": "Karnataka is a blend of modern technology and ancient heritage."
+},
+{
+  "_id": {
+    "$oid": "66db4e6d89ca6b5ebd9ab453"
+  },
+  "name": "Kerala",
+  "capital": "Thiruvananthapuram",
+  "info": "Famous for its backwaters and spice plantations.",
+  "culturalDetails": "Known for its unique art forms like Kathakali and beautiful backwaters.",
+  "photoUrl": "https://example.com/photos/kerala.jpg",
+  "monuments": [
+    {
+      "name": "Backwaters",
+      "description": "The Kerala backwaters are a network of brackish lagoons and canals lying parallel to the Arabian Sea of the Malabar coast of Kerala state in south-western India. It also includes interconnected lakes, rivers, and inlets, a labyrinthine system formed by more than 900 km (560 mi) of waterways, and sometimes compared to bayous.[3] The network includes five large lakes linked by canals, both man made and natural, fed by 38 rivers, and extending virtually half the length of Kerala state. The backwaters were formed by the action of waves and shore currents creating low barrier islands across the mouths of the many rivers flowing down from the Western Ghats range. In the midst of this landscape there are a number of towns and cities, which serve as the starting and end points of backwater cruises. There are 34 backwaters in Kerala. Out of it, 27 are located either closer to Arabian Sea or parallel to the sea.[5] The remaining 7 are inland navigation routes.",
+      "photoUrl": "https://static.toiimg.com/photo/msid-83336319,width-96,height-65.cms"
+    },
+    {
+      "name": "Athirappilly Waterfalls",
+      "description": "Athirapilly Falls is situated in Athirapilly Panchayat in Chalakudy Taluk of Thrissur District in Kerala, India on the Chalakudy River, which originates from the upper reaches of the Western Ghats at the entrance to the Sholayar ranges. It is the largest waterfall in Kerala, which stands tall at 81.5 feet. Just a short drive from Athirapilly is the Vazhachal Falls, which is close to dense green forests that are home to many endangered and endemic species of flora and fauna. There is another waterfall on the way from Athirapilly to Vazhachal Falls, in close proximity to the road, which is locally called 'Charpa Falls'. Athirappilly Falls is the largest waterfall in Kerala and is nicknamed 'The Niagara of South India.",
+      "photoUrl": "https://img.onmanorama.com/content/dam/mm/en/travel/travel-news/images/2023/2/23/athirappilly-new1.jpg"
+    },
+    {
+      "name": "Padmanabhaswamy Temple",
+      "description": "The Padmanabhaswamy Temple is a Hindu temple dedicated to Vishnu in Thiruvananthapuram, the capital of the state of Kerala, India. It is one of the 108 Divya Desams which are considered the sacred abodes of Vishnu in the Sri Vaishnava tradition. The name of the city of 'Thiruvananthapuram' in Malayalam and Tamil translates to 'The City of Ananta' (Ananta being a form of Vishnu). The temple is built in an intricate fusion of the Kerala style and the Dravidian style of architecture, featuring high walls, and a 16th-century gopuram. the temple is a replica of the Adikesava Perumal temple in Thiruvattar in Kanyakumari district in Tamil Nadu. It is widely considered the world's richest Hindu temple.",
+      "photoUrl": "https://static.theprint.in/wp-content/uploads/2020/07/ttemple.jpg"
+    }
+  ],
+  "outro": "Kerala is a serene state known for its natural beauty and cultural richness."
+},
+{
+  "_id": {
+    "$oid": "66db4e6d89ca6b5ebd9ab454"
+  },
+  "name": "Madhya Pradesh",
+  "capital": "Bhopal",
+  "info": "Rich in historical and archaeological sites.",
+  "culturalDetails": "Famous for Khajuraho Temples and Sanchi Stupa.",
+  "photoUrl": "https://example.com/photos/madhya-pradesh.jpg",
+  "monuments": [
+    {
+      "name": "Khajuraho Temples",
+      "description": "Khajuraho is a city, near Chhatarpur in Chhatarpur district of the Indian state of Madhya Pradesh. One of the most popular tourist destinations in India, Khajuraho has the country's largest group of medieval Hindu and Jain temples, famous for their erotic sculptures. The Khajuraho Group of Monuments has been listed as a UNESCO World Heritage Site since 1986 and is considered one of the 'seven wonders' of India. The town's name, anciently 'Kharjuravahaka', is derived from the Sanskrit word kharjur meaning 'date palm'.",
+      "photoUrl": "https://www.andbeyond.com/wp-content/uploads/sites/5/khajuraho-india-temple-complex.jpg"
+    },
+    {
+      "name": "Sanchi Stupa",
+      "description": "Sanchi Stupa is a Buddhist complex, famous for its Great Stupa, on a hilltop at Sanchi Town in Raisen District of the State of Madhya Pradesh, India. It is located, about 23 kilometers from Raisen town, district headquarter and 46 kilometres (29 mi) north-east of Bhopal, capital of Madhya Pradesh. The Great Stupa at Sanchi is one of the oldest stone structures in India, and an important monument of Indian Architecture.[1] It was originally commissioned by the Mauryan emperor Ashoka in the 3rd century BCE. Its nucleus was a simple hemispherical brick structure built over the relics of the Buddha.",
+      "photoUrl": "https://live.staticflickr.com/2857/32895687604_be3c16611e_b.jpg"
+    },
+    {
+      "name": "Mandu",
+      "description": "Mandu or Mandavgad is an ancient city in the present-day Mandav area of the Dhar district. It is located in the Malwa and Nimar region of western Madhya Pradesh, India, at 35 km from Dhar city. In the 11th century, Mandu was the sub division of the Tarangagadh or Taranga kingdom.[1] This fortress town on a rocky outcrop about 100 km (62 mi) from Indore is celebrated for its architecture. Mandu is also known for its vibrant culture and festivals, including the Malwa Utsav and the Mandu Festival, which showcase the region's traditional music, dance, and art.",
+      "photoUrl": "https://www.authenticindiatours.com/app/uploads/2022/04/Jahaz-Mahal-Ships-Palace-Mandu-Madhya-Pradesh.jpg"
+    }
+  ],
+  "outro": "Madhya Pradesh offers a wealth of historical and cultural experiences."
+},
+{
+  "_id": {
+    "$oid": "66db4e6d89ca6b5ebd9ab455"
+  },
+  "name": "Maharashtra",
+  "capital": "Mumbai",
+  "info": "The economic hub of India with diverse landscapes.",
+  "culturalDetails": "Famous for its Bollywood film industry and historic caves.",
+  "photoUrl": "https://example.com/photos/maharashtra.jpg",
+  "monuments": [
+    {
+      "name": "Gateway of India",
+      "description": "Gateway of India, an arch monument built in the early 20th century in Mumbai to commemorate the December 2, 1911, landing of King George V and Queen Mary at Apollo Bunder (now Wellington Pier) on the Arabian Sea, on their way to the Delhi Durbar. It is believed that the royal couple saw just a cardboard model of the structure as they landed in India, as the construction of the Gateway of India was completed much later, in 1924. The Gateway of India is not only an iconic landmark in Mumbai but also one of India’s most popular tourist sites.  It was designed in the Indo-Saracenic style used by British architects in India about that time, featuring a mix of Indian and Islamic architecture with British organization and composition. The Gateway of India features carved stone latticework known as jaali. The central dome is surrounded by four turrets.",
+      "photoUrl": "https://content.jdmagicbox.com/v2/comp/mumbai/19/022p4502819/catalogue/gateway-of-india-apollo-bunder-mumbai-tourist-attraction-xfa51qv7cd.jpg"
+    },
+    {
+      "name": "Ajanta and Ellora Caves",
+      "description": "Ajanta and Ellora caves, considered to be one of the finest examples of ancient rock-cut caves, are located near Aurangabad in Maharashtra, India. Ajanta and Ellora caves complex is adorned with beautiful sculptures, paintings, and frescoes and include Buddhist monasteries, Hindu and Jain temples. The Ajanta caves are 29 in number and were built between the 2nd century BC and 6th century AD, whereas the Ellora Caves are more spread out and 34 in number and dates to the period between 6th and 11th Century AD. Ajanta and Ellora caves are designated as UNESCO World Heritage Sites and are quite popular among travelers worldwide. Ajanta Caves, located around 99km north of Aurangabad, are mostly Buddhist sites and were used as a retreat by Buddhist Monks. Ellora is just 15 km west of Aurangabad and has a better mix of Hindu, Jain, and Buddhist sites.",
+      "photoUrl": "https://www.onacheaptrip.com/wp-content/uploads/Kailasa-Temple-at-Ellora-Caves-Aurangabad.jpg"
+    },
+    {
+      "name": "Elephanta Caves",
+      "description": "The Elephanta Caves are located in Western India on Elephanta Island (otherwise known as the Island of Gharapuri), which features two hillocks separated by a narrow valley. The small island is dotted with numerous ancient archaeological remains that are the sole testimonies to its rich cultural past. These archaeological remains reveal evidence of occupation from as early as the 2nd century BC. The rock-cut Elephanta Caves were constructed about the mid-5th to 6th centuries AD. The most important among the caves is the great Cave 1, which measures 39 metres from the front entrance to the back. In plan, this cave in the western hill closely resembles Dumar Lena cave at Ellora, in India. The main body of the cave, excluding the porticos on the three open sides and the back aisle, is 27 metres square and is supported by rows of six columns each.",
+      "photoUrl": "https://www.alightindia.com/cdn/uploads/postimages/ORIGINAL/Elephanta-Caves%20Tripiwiki--326ade.jpg"
+    }
+  ],
+  "outro": "Maharashtra is a blend of tradition, modernity, and natural beauty."
+},
+{
+  "_id": {
+    "$oid": "66db4e6d89ca6b5ebd9ab456"
+  },
+  "name": "Manipur",
+  "capital": "Imphal",
+  "info": "Known for its rich traditions and natural beauty.",
+  "culturalDetails": "Famous for its classical dance forms and unique festivals.",
+  "photoUrl": "https://example.com/photos/manipur.jpg",
+  "monuments": [
+    {
+      "name": "Kangla Fort",
+      "description": "The Kangla with diractic Kanglā,[1] officially known as the Kangla Fort, is an old fortified palace at Imphal, in the Manipur state of India. It was formerly situated on both sides (western and eastern) of the bank of the Imphal River, now remaining only on the western side in ruined conditions. Kangla means 'the prominent part of the dry land' in old Meetei. It was the traditional seat of the past Meetei rulers of Manipur. Kangla (Imphal) was the ancient capital of pre-modern Manipur. The Kangla is a revered spot for the people of Manipur, reminding them of the days of their independence. It is a sacred place to the Meiteis. The Kangla is being proposed to be declared as a UNESCO World Heritage Site, for which there are discussions ongoing in the Indian Parliament.",
+      "photoUrl": "https://miro.medium.com/v2/resize:fit:1138/1*IKKTJCjyLj_bir2TL7fdEw.jpeg"
+    },
+    {
+      "name": "Loktak Lake",
+      "description": "Loktak Lake is a freshwater lake in Northeast India. It is a pulsating lake, with a surface area varying from 250 km2 to 500 km2 during the rainy season with a typical area of 287 km2.[5] The lake is located at Moirang in Manipur state, India. The etymology of Loktak is Lok = 'stream' and tak = 'the end' in Meitei language (Manipuri language).[5][4] It is famous for the phumdi (heterogeneous mass of vegetation, soil and organic matter at various stages of decomposition) floating over it. This ancient lake plays an important role in the economy of Manipur. It serves as a source of water for hydropower generation, irrigation and drinking water supply. The lake is also a source of livelihood for the rural fishermen who live in the surrounding areas and on phumdis, also known as 'phumshangs'.",
+      "photoUrl": "https://iastoppers.com/landing/wp-content/uploads/2024/02/Loktak-Manipur.jpg"
+    },
+    {
+      "name": "Shri Govindajee Temple",
+      "description": "Shree Govindajee Temple is a Meitei Hindu temple, dedicated to Hindu deities Radha Krishna (Govindaji). It is the largest Vaishnava temple in Imphal district of Manipur, India. It was originally built in 1846 during the reign of Maharaja Nara Singh and later rebuilt by Maharaja Chandrakriti in 1876. The temple is simple in design with two gold plated domes, a paved court and a large, raised Mandop or congregation hall. The central chamber of the garbhagriha (sanctum sanctorum) has Govindaji (Krishna) and his chief consort Radha as the main deities. The other two chambers on the either side of the central altar is dedicated to Krishna and Balarama on one side and Jagannath, Subhadra and Balabhadra on the other side. ",
+      "photoUrl": "https://www.sahapedia.org/sites/default/files/styles/sp_inline_images/public/10_67.jpg?itok=k007N18s"
+    }
+  ],
+  "outro": "Manipur is a state of cultural richness and natural splendor."
+},
+{
+  "_id": {
+    "$oid": "66db4e6d89ca6b5ebd9ab457"
+  },
+  "name": "Meghalaya",
+  "capital": "Shillong",
+  "info": "Known for its high rainfall and picturesque landscapes.",
+  "culturalDetails": "Famous for its living root bridges and vibrant festivals.",
+  "photoUrl": "https://example.com/photos/meghalaya.jpg",
+  "monuments": [
+    {
+      "name": "Living Root Bridges",
+      "description": "Living root bridges are a kind of tree shaping in which rivers are spanned by architecture formed out of the roots of ficus plants. Due to their being made from living, growing, trees, they 'show a very wide variety of structural typologies, with various aspects of particular bridges resembling characteristics of suspension bridges, cable-stayed bridges, arches, trusses, and simply-supported beams.; They are common in the Indian state of Meghalaya.The structures are handmade from the aerial roots of rubber fig trees (Ficus elastica) by the Khasi and Jaiñtia peoples of the mountainous terrain along the southern part of the Shillong Plateau. Most of the bridges grow on steep slopes of subtropical moist broadleaf forest between 50 and 1,150 m (160 and 3,770 ft) above sea level. ",
+      "photoUrl": "https://thelandofwanderlust.com/wp-content/uploads/2021/02/BCF1FE28-E315-4ACC-9EFE-916F7413388F.jpeg"
+    },
+    {
+      "name": "Elephant Falls",
+      "description": "The Elephant Falls are a two-tier waterfall in Shillong, Meghalaya, India.[1] The mountain stream descends through two successive falls set in dells of fern-covered rocks. The original Khasi name for the falls is Ka Kshaid Lai Pateng Khohsiew, which translates to 'the three - step waterfall'. This name is still used locally. However the modern name is explained by a signboard near the waterfall. The name originated in the British era when the Englishmen spotted a giant rock that looked like an elephant near the fall. This rock was destroyed in the 1897 due to an earthquake.",
+      "photoUrl": "https://www.trawell.in/admin/images/upload/648495280Shillong_Elephant_Falls_Main.jpg"
+    },
+    {
+      "name": "Mawsmai Cave",
+      "description": "At a distance of 4 km from Cherrapunji Bus Stand, Mawsmai Cave is a beautiful limestone cave located at Cherrapunji in the North East Indian state of Meghalaya. It is one of the most popular historical Caves in Meghalaya and among the best places to experience Cherrapunji Tourism. Mawsmai Caves are formed out of limestone and enjoy the distinction of being the only caves in Meghalaya that are lit enough so that the tourists can enjoy its natural formations. Though the caves are quite long, only a distance of 150 meters is open for tourists while the remaining section is closed. The cave has a spacious opening but it soon squeezed into a narrow path. The interior is spacious as far as the cave goes, and some of the halls inside look like an amphitheater. While getting inside the cave, one can see constant dripping of water from the roof of the cave and the innumerable forms of stalactites and stalagmites. Further, visitor can also observe how the roof and the floor of the cave are joined together to form the iconic pillars.",
+      "photoUrl": "https://static.toiimg.com/photo/104833290.cms"
+    }
+  ],
+  "outro": "Meghalaya is a state of breathtaking natural beauty and unique culture."
+},
+{
+  "_id": {
+    "$oid": "66db4e6d89ca6b5ebd9ab458"
+  },
+  "name": "Mizoram",
+  "capital": "Aizawl",
+  "info": "Known for its picturesque hills and tribal culture.",
+  "culturalDetails": "Famous for its traditional dances and festivals like Chapchar Kut.",
+  "photoUrl": "https://example.com/photos/mizoram.jpg",
+  "monuments": [
+    {
+      "name": "Mizoram State Museum',It is an ethnographic museum with multipurpose collections on display. There are five galleries: Textile Gallery, Ethnology, History, Anthropology, Natural History, and an Archaeology Terrace. The collection occupies four floors. The museum was established in April 1977 by the Tribal Research Institute under Education Department. From 1989, it came under Art and Culture department. The museum was earlier housed in a rented building but on 14 July 1990 it was moved to a new building, at Mc Donald Hill. The museum galleries have undergone a lot of renovation under the care of Indian Museum, Kolkata. Financial assistance was also received from Victoria Memorial, Kolkata.A museum showcasing the history and culture of Mizoram.",
+      "photoUrl": "https://knowledgeofindia.com/wp-content/uploads/2019/12/Entrance-Gate-of-Mizoram-State-Museum-700x340.jpg"
+    },
+    {
+      "name": "Lunglei",
+      "description": "Literally meaning 'the bridge of rock', Lunglei is famous for its scenic beauty and natural setting. It is a small town, located around 170 km south of Aizawl whose name is derived from a bridge shaped rock found along Nghasih which is a tributary of the river Tlawng. Lunglei Town is the second largest settlement of Mizoram. It is quiet, serene and tranquil. The least polluted and only Indian city with PM levels under the World Health Organisation’s prescribed level of 20/ug/m3 (micrograms per cubic meter), according to Greenpeace India. It is situated 729 metres (2,392 feet) above sea level and is situated on a ridge surrounded by hills. Lunglei has ",
+      "photoUrl": "https://travelsetu.com/apps/uploads/new_destinations_photos/destination/2024/01/18/029ea4bb0af02474f42b3d13a21a29c2_1000x1000.jpg"
+    },
+    {
+      "name": "Reiek",
+      "description": "Perched at an elevation of 1,465 metres, the village offers a panoramic view of hills and valleys, embraced by a verdant canopy of mountains and the symphony of birdsong, bringing time to a standstill. This remote haven has earned its place among the country’s best tourism villages, captivating the hearts of adventurers and nature enthusiasts alike. not just as a destination but as an immersive experience where nature, culture and history converge, offering a timeless escape for those seeking the extraordinary. offers a view of the surrounding valleys and hills. On a clear day, the plains of Bangladesh can be seen from the top of the hill. Thick, rich, temperate trees and shrubs line Reiek Hill's perimeter.",
+      "photoUrl": "https://i.ytimg.com/vi/QJPRRnqAM-4/maxresdefault.jpg"
+    }
+  ],
+  "outro": "Mizoram offers a peaceful escape with its stunning landscapes and vibrant culture."
+},
+{
+  "_id": {
+    "$oid": "66db4e6d89ca6b5ebd9ab459"
+  },
+  "name": "Nagaland",
+  "capital": "Kohima",
+  "info": "Known for its diverse tribal cultures and vibrant festivals.",
+  "culturalDetails": "Famous for the Hornbill Festival and traditional Naga huts.",
+  "photoUrl": "https://example.com/photos/nagaland.jpg",
+  "monuments": [
+    {
+      "name": "Kohima War Cemetery",
+      "description": "The Kohima War Cemetery is located in the heart of Kohima, the capital city of the Indian state of Nagaland, at the location where a decisive battle was won by the Allied Forces during the Second World War, forcing the Japanese army to retreat.[1] This location is on the ridge below and above the tennis court. The soldiers died on the battleground of Garrison Hill in the tennis court area of the Deputy Commissioner's residence. According to the Commonwealth War Graves Commission, which maintains this cemetery among many others in the world, there are 1,420 Commonwealth burials of the Second World War at this cemetery, and a memorial to an additional 917 Hindu and Sikh soldiers who were cremated in accordance with their faith. The memorial was inaugurated by Field Marshal Sir William Slim, then Commander of the 14th Army in Burma.",
+      "photoUrl": "https://www.antilogvacations.com/Images//ActivityDetail//Basic//Domestic//NorthEast//Nagaland//Standard-Activities//Kohima-War-Cemetery//Gallary//Kohima-War-Cemetery_0.jpg"
+    },
+    {
+      "name": "Hornbill Festival Grounds",
+      "description": "The Hornbill Festival is an annual festival celebrated from 1 to 10 of December in the Northeastern Indian state of Nagaland. The festival represents all ethnic groups of Nagaland for which it is also called the Festival of Festivals. he state of Nagaland is home to several ethnic groups, which have their own distinct festivals. More than 60% of the population of Nagaland depends on agriculture and therefore most of their festivals revolve around agriculture. The Nagas consider their festivals sacred, so participation in these festivals is essential. The festival is named after the hornbill, the large and colourful forest bird which is displayed in the folklore of most of the state's ethnic groups.",
+      "photoUrl": "https://utsav.gov.in/public/uploads/event_picture_image/event_2036/16703984881504678135.jpg"
+    },
+    {
+      "name": "Dimapur Ruins",
+      "description": "Ruins of Kachari Rajbari are a set of medieval monuments located in Dimapur, Nagaland, in Northeast India. Their history dates back to the 10th century when they appeared during the Kachari civilization. The Kachari Rajbari Ruins are a series of mushroom domed pillars. They were created by the Kachari Kingdom, which ruled Dimapur before the Ahom invasion into the territory during the 13th century. Their origin and purpose are largely mysterious. The pillars are not well maintained. Some pillars still stand in all their glory but others have crumbled down. It is believed that a game similar to chess was played there with the mushroom domes.",
+      "photoUrl": "https://media-cdn.tripadvisor.com/media/photo-s/0e/62/13/76/pillars-at-kachari-ruins.jpg"
+    }
+  ],
+  "outro": "Nagaland is a state of rich cultural heritage and vibrant festivals."
+},
+{
+  "_id": {
+    "$oid": "66db4e6d89ca6b5ebd9ab45a"
+  },
+  "name": "Odisha",
+  "capital": "Bhubaneswar",
+  "info": "Known for its temples and coastal beauty.",
+  "culturalDetails": "Famous for the Jagannath Temple and Konark Sun Temple.",
+  "photoUrl": "https://example.com/photos/odisha.jpg",
+  "monuments": [
+    {
+      "name": "Jagannath Temple",
+      "description": "The Jagannath Temple is a Hindu temple dedicated to the god Jagannath, a form of Vishnu in Hinduism. It is located in Puri in the state of Odisha, situated on the eastern coast of India. As per temple records, King Indradyumna of Avanti built the main temple of Jagannath at Puri. The temple is famous for its annual Ratha Yatra, or chariot festival, in which the three principal deities are pulled on huge and elaborately decorated raths, or temple cars. The worship is performed by the Bhil Sabar tribal priests, as well as priests of other communities in the temple. Unlike the stone and metal icons found in most Hindu temples, the image of Jagannath is made of wood, and is ceremoniously replaced every 12 or 19 years by an exact replica.[6] The temple is one of the Char Dham pilgrimage sites. It is also famous because many legends believe that Krishna's heart was placed here, and the material that it is made from damages the heart, so they have to change it every seven years.Tthe Jagannath Temple in Puri was called the 'White Pagoda'.",
+      "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/6/6e/Shri_Jagannatha_Temple.jpg"
+    },
+    {
+      "name": "Konark Sun Temple",
+      "description": "Konark Sun Temple is a 13th-century CE Hindu Sun temple at Konark about 35 kilometres (22 mi) northeast from Puri city on the coastline in Puri district, Odisha, India. Dedicated to the Hindu Sun-god Surya, what remains of the temple complex has the appearance of a 100-foot (30 m) high chariot with immense wheels and horses, all carved from stone. Also called the Surya Devalaya, it is a classic illustration of the Odisha style of Architecture or Kalinga architecture. This temple was called the 'Black Pagoda' in European sailor accounts as early as 1676 because it looked like a great tiered tower which appeared black.",
+      "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/4/47/Konarka_Temple.jpg"
+    },
+    {
+      "name": "Udaigiri and Khandagiri Caves",
+      "description": "Udayagiri and Khandagiri caves, formerly called Kattaka caves or Cuttack caves, are partly natural and partly artificial caves of archaeological, historical and religious importance near the city of Bhubaneswar in Odisha, India. The caves are situated on two adjacent hills, Udayagiri and Khandagiri mentioned as Kumari Parvata in the Hathigumpha inscription.[1] They have a number of finely and ornately carved caves built during the 1st century BCE. It is believed that most of these caves were carved out as residential blocks for Jain monks during the reign of King Kharavela. Udayagiri means 'Sunrise Hill' and has 18 caves while Khandagiri has 15 caves. The Archaeological Survey of India (ASI) has listed that Udayagiri and Khandagiri Caves in the list of 'Must See' Indian Heritage. The Udayagiri and Khandagiri Caves are listed as one of the Adarsh Smarak Monument by ASI..",
+      "photoUrl": "https://img.veenaworld.com/wp-content/uploads/2021/10/Udaygiri-and-Khandagiri.jpg"
+    }
+  ],
+  "outro": "Odisha is a state with rich historical temples and beautiful coastal scenery."
+},
+{
+  "_id": {
+    "$oid": "66db4e6d89ca6b5ebd9ab45b"
+  },
+  "name": "Punjab",
+  "capital": "Chandigarh",
+  "info": "Known for its agricultural abundance and historical sites.",
+  "culturalDetails": "Famous for the Golden Temple and vibrant Punjabi culture.",
+  "photoUrl": "https://example.com/photos/punjab.jpg",
+  "monuments": [
+    {
+      "name": "Golden Temple",
+      "description": "The Golden Temple (also known as the Harmandir Sahib  or the Darbār Sahib, is a gurdwara located in the city of Amritsar, Punjab, India.[3][4] It is the pre-eminent spiritual site of Sikhism. It is one of the holiest sites in Sikhism, alongside the Gurdwara Darbar Sahib Kartarpur in Kartarpur, and Gurdwara Janam Asthan in Nankana Sahib. The Golden Temple is an open house of worship for all people, from all walks of life and faiths. It has a square plan with four entrances, and a circumambulation path around the pool. The four entrances to the gurudwara symbolises the Sikh belief in equality and the Sikh view that all people are welcome into their holy place. The complex is a collection of buildings around the sanctum and the pool.",
+      "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/9/94/The_Golden_Temple_of_Amrithsar_7.jpg"
+    },
+    {
+      "name": "Jallianwala Bagh",
+      "description": "Jallianwala Bagh is a historic garden and memorial of national importance close to the Golden Temple complex in Amritsar, Punjab, India, preserved in the memory of those wounded and killed in the Jallianwala Bagh Massacre that took place on the site on the festival of Baisakhi Day, 13 April 1919. The 7-acre (28,000 m2) site houses a museum, gallery and several memorial structures. It is managed by the Jallianwala Bagh National Memorial Trust, and was renovated between 2019 and 2021. Jallianwala Bagh or the garden of the Jallah-man, with its well, implies that it was once green and flowering. Over the years it had become popular as a recreation ground and an area of rest for those visiting the nearby Golden temple.",
+      "photoUrl": "https://img.etimg.com/thumb/width-640,height-480,imgsize-343356,resizemode-75,msid-99456355/news/new-updates/jallianwala-bagh-massacres-104th-anniversary-what-happened-why-should-we-always-remember-this-day.jpg"
+    },
+    {
+      "name": "Wagah Border",
+      "description": "Wagah is a village and union council (UC 181) located in the Wahga Zone near Lahore City District, Pakistan.[1] The town is famous for the Wagah border ceremony and also serves as a goods transit terminal and a railway station between Pakistan and India. he border is located 24 kilometres (15 mi) from Lahore and 32 kilometres (20 mi) from Amritsar. It is also 3 kilometres (1.9 mi) from the bordering village of Attari, India. The Wagah ceremony takes place every evening. The border crossing draws its name from Wahga village, near which the Radcliffe Line, the boundary demarcation line dividing India and Pakistan upon the Partition of British India, was drawn.[3] At the time of the independence in 1947, migrants from India entered Pakistan through this border crossing and vice versa. ",
+      "photoUrl": "https://www.trawell.in/admin/images/upload/597529728Amritsar_Wagah_Border_Main.jpg"
+    }
+  ],
+  "outro": "Punjab is a land of rich heritage, vibrant culture, and historic landmarks."
+},
+{
+  "_id": {
+    "$oid": "66db4e6d89ca6b5ebd9ab45c"
+  },
+  "name": "Rajasthan",
+  "capital": "Jaipur",
+  "info": "Known for its desert landscapes and royal heritage.",
+  "culturalDetails": "Famous for its palaces, forts, and vibrant festivals.",
+  "photoUrl": "https://example.com/photos/rajasthan.jpg",
+  "monuments": [
+    {
+      "name": "Amber Fort",
+      "description": "Amer Fort or Amber Fort is a fort located in Amer, Rajasthan, India. Amer is a town with an area of 4 square kilometres (1.5 sq mi)[2] located 11 kilometres (6.8 mi) from Jaipur, the capital of Rajasthan. Located high on a hill, it is the principal tourist attraction in Jaipur.[3][4] Amer Fort is known for its artistic style elements. With its large ramparts and series of gates and cobbled paths, the fort overlooks Maota Lake,[4][5][6][7] which is the main source of water for the Amer Palace. Amer Palace is great example of Rajput architecture. Some of its buildings and work have influence of Mughal architecture. Constructed of red sandstone and marble, the attractive, opulent palace is laid out on four levels, each with a courtyard. It consists of the Diwan-e-Aam, or 'Hall of Public Audience', the Diwan-e-Khas, or 'Hall of Private Audience', the Sheesh Mahal (mirror palace), or Jai Mandir, and the Sukh Niwas where a cool climate is artificially created by winds that blow over a water cascade within the palace. Hence, the Amer Fort is also popularly known as the Amer Palace.",
+      "photoUrl": "https://media.istockphoto.com/id/469788052/photo/amer-fort-near-jaipur.jpg?s=612x612&w=0&k=20&c=Rsd9v_Ix39ce8U9QKo3UnWfEMG1DUq4hnzh3APPi3g8="
+    },
+    {
+      "name": "Hawa Mahal",
+      "description": "The Hawa Mahal is a palace in the city of Jaipur, Rajasthan, India. Built from red and pink sandstone, it is on the edge of the City Palace, Jaipur, and extends to the Zenana, or women's chambers. Hawa Mahal famously known as the “ palace of winds “ has one of the best architecture in Jaipur, Rajasthan. Maharaja Sawai Pratap Singh built this palace in 1799.  Hawa Mahal is considered to be very unique as it has many small windows and balconies that seem like a honeycomb. It was designed by Lal Chand Ustad. Its five-floor exterior is akin to a honeycomb with its 953 small windows called Jharokhas decorated with intricate latticework. The original intent of the lattice design was to allow royal ladies to observe everyday life and festivals celebrated in the street below without being seen.",
+      "photoUrl": "https://static.langimg.com/photo/imgsize-232324,msid-86254269/navbharat-times.jpg"
+    },
+    {
+      "name": "Mehrangarh Fort",
+      "description": "Mehrangarh is a historic fort located in Jodhpur, Rajasthan, India. It stands on a hilltop, rising about 122 m (400 ft) above the surrounding plains, and the complex spans 1,200 acres (486 hectares). It was initially built around 1459 by the Rajput ruler of Rathore clan Rao Jodha, though most of the existing structure is from the 17th century built by his successors. Within its boundaries, you'll find several palaces known for their intricate carvings and expansive courtyards, a Chamunda Mataji Temple, as well as a museum that houses various relics. A winding road leads to and from the city below. The imprints of the impact of cannonballs fired by attacking armies of Jaipur can still be seen on the second gate. At the north-east of the fort is the chhatri of Kirat Singh Sodha, a soldier who fell on the spot defending Mehrangarh. Some of the notable festivals taking place here include the World Sacred Spirit Festival and Rajasthan International Folk Festival.",
+      "photoUrl": "https://i0.wp.com/www.jaipurcitycab.in/blog/wp-content/uploads/2022/12/Mehrangarh-Fort-of-Jodhpur.jpg?fit=1024%2C576&ssl=1"
+    }
+  ],
+  "outro": "Rajasthan is a state of grand forts, vibrant culture, and colorful festivals."
+},
+{
+  "_id": {
+    "$oid": "66db4e6d89ca6b5ebd9ab45d"
+  },
+  "name": "Sikkim",
+  "capital": "Gangtok",
+  "info": "Known for its stunning landscapes and Buddhist monasteries.",
+  "culturalDetails": "Famous for its monasteries and beautiful views of the Himalayas.",
+  "photoUrl": "https://example.com/photos/sikkim.jpg",
+  "monuments": [
+    {
+      "name": "Rumtek Monastery",
+      "description": "Rumtek Monastery also called the Dharma Chakra Centre, is a gompa located in the Indian state of Sikkim near the capital Gangtok. It is the seat in exile of the Gyalwang Karmapa, inaugurated in 1966 by the 16th Karmapa. It is also a focal point for the sectarian tensions within the Karma Kagyu school of Tibetan Buddhism that characterize the 17th Karmapa controversy. The monastery is currently the largest in Sikkim. It is home to the community of monks and where they perform the rituals and practices of the Karma Kagyu lineage.",
+      "photoUrl": "https://static.toiimg.com/thumb/47094080.cms?resizemode=75&width=1200&height=900"
+    },
+    {
+      "name": "Tsomgo Lake",
+      "description": "Tsomgo Lake, also known as Tsongmo Lake or Changgu Lake, is a glacial lake in Changu in the Gangtok district of the Indian state of Sikkim, some 40 kilometres (25 mi) from the capital Gangtok. Located at an elevation of 3,753 m (12,313 ft), the lake remains frozen during the winter season. The lake surface reflects different colours with change of seasons and is held in great reverence by the local Sikkimese people. Buddhist monks prognosticated after studying the changing colours of the lake. The lake is the venue for the Guru Purnima festival which is also the Raksha Bandhan festival when the faith healers known as Jhakris of Sikkim assemble at the lake area to derive benefits from the healing qualities of the lake waters. Tourist attractions at the lake site include joy rides on decorated yaks and mules where kiosks offer variety of food and drinks.[1] There is also a small Shiva temple on the bank of the lake.",
+      "photoUrl": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0d/cd/ac/a3/tsomgo-lake.jpg?w=1200&h=-1&s=1"
+    },
+    {
+      "name": "Nathula Pass",
+      "description": "Nathu La, one of the highest motorable roads in the world, is a mountain pass in the Himalayan peaks that co-joins Sikkim and China. Situated on the Indo-Tibetan border 14450 ft. above sea level, Nathu La is one of the most important Himalayan passes in the country. Nathu means 'listening ears', and La means 'pass'. Nathu La is one of the three open trading border posts between India and China and is famous for its picturesque beauty and beautiful environment. The temperature here remains low for most parts. Located on the Old Silk Route, Nathu La Pass connects Sikkim to China’s Tibet Autonomous Region. It was sealed for almost 4 decades after the People’s Republic of China suppressed a Tibetan uprising in 1959. However, when the former Prime Minister of India, Atal Bihari Vajpayee visited China in 2003, talks to open the strategic route were resumed. The Nathu La Pass was reopened in 2006 and since then, it has served as an official Border Personnel Meeting(BPM) Point. Since it is one of the three open trading border posts between India and China, Nathu La Pass has played a key role in the Sino-Indian Trade. It has also shortened the distance between the important Buddhist and Hindu pilgrimage sites, thus strengthening the economy and improving border relations with China.",
+      "photoUrl": "https://www.flamingotravels.co.in/_next/image?url=https%3A%2F%2Fimgcdn.flamingotravels.co.in%2FImages%2FPlacesOfInterest%2FNathula-Pass-Gangtok-3.jpg&w=828&q=90"
+    }
+  ],
+  "outro": "Sikkim is a state of breathtaking landscapes and rich cultural heritage."
+},
+{
+  "_id": {
+    "$oid": "66db4e6d89ca6b5ebd9ab45e"
+  },
+  "name": "Tamil Nadu",
+  "capital": "Chennai",
+  "info": "Known for its classical temples and rich cultural heritage.",
+  "culturalDetails": "Famous for its temples, classical dance forms, and beautiful coastlines.",
+  "photoUrl": "https://example.com/photos/tamil-nadu.jpg",
+  "monuments": [
+    {
+      "name": "Meenakshi Temple",
+      "description": "Arulmigu Meenakshi Sundareswarar Temple, also known as Arulmigu Meenakshi Amman Thirukkovil, is a historic Hindu temple located on the southern bank of the Vaigai River in the temple city of Madurai, Tamil Nadu, India. A famous pilgrimage spot, the temple is renowned for its classic architectural style, stupendous structures and carvings. The most popular fact about the temple is that it is home to a hall that has a thousand pillars, a sacred pool with a golden lotus where you can take a ritual bath, a wedding hall, innumerable small shrines, gardens, and elephant sheds. It has 4 Raja gopurams, 2 gold gopurams, 1 Chithirai gopuram, 5 five-floored gopurams and 2 three-floored ones, which are all majestic in appearance. ",
+      "photoUrl": "https://img.traveltriangle.com/blog/wp-content/uploads/2018/05/Meenakshi-Temple-Madurai.jpg"
+    },
+    {
+      "name": "Brihadeeswarar Temple",
+      "description": "Known as the 'big temple', Brihadeeswarar Temple is dedicated to Lord Shiva and is amongst one of the largest temples in the country. And make no mistake, this temple is 1000+ years old and the temple tower is a whopping 216 feet high, making it the tallest in the world. One of the most intriguing mysteries surrounding the Brihadeeswara Temple is its apparent lack of shadow. Despite its towering height, the temple doesn't cast a shadow on the ground, leaving visitors astounded. It is the best example of Chola architecture. The Brihadeshwara Temple at Thanjavur was built by Rajaraja I in 1009 CE for worshipping Lord Shiva. ",
+      "photoUrl": "https://static.toiimg.com/photo/107831376.cms"
+    },
+    {
+      "name": "Mahabalipuram",
+      "description": "Famous for its intricately carved temples and rock-cut caves, Mamallapuram or Mahabalipuram as it is famously known, is a historically important and well-loved tourist location situated on the Coromandel Coast along the Bay of Bengal, in the state of Tamil Nadu. Once the abode of the famous demon king Mahabali, Mahabalipuram was later renamed Mamallapuram. The serenity, the alluring atmosphere and the impressive setting with many beautiful white sandy beaches dotted with casuarina trees are all reasons as to why one would want to visit this wonderful town. Some famous tourist spots include the UNESCO world heritage site Group of Monuments like the Shore Temple and the Five Rathas, the Crocodile Bank which is home to some exquisite species of crocodiles and alligators, and the beach resorts in Kovalam and Sadras.",
+      "photoUrl": "https://www.tamilnadutourism.tn.gov.in/img/pages/large-desktop/mahabalipuram-1655321073_8b2ce35853c44cd4f2d2.webp"
+    }
+  ],
+  "outro": "Tamil Nadu is a state rich in history, culture, and architectural wonders."
+},
+{
+  "_id": {
+    "$oid": "66db4e6d89ca6b5ebd9ab45f"
+  },
+  "name": "Telangana",
+  "capital": "Hyderabad",
+  "info": "Known for its historical monuments and modern city life.",
+  "culturalDetails": "Famous for the Charminar and Golconda Fort.",
+  "photoUrl": "https://example.com/photos/telangana.jpg",
+  "monuments": [
+    {
+      "name": "Charminar",
+      "description": "Charminar is famous for its intricate architecture, which makes it one of the most recognized structures of India. The surrounding Laad Bazaar and the 400 years old mosque on the top floor of Charminar make it famous amongst locals as well as the tourists. This monument is the official emblem of Telangana. Charminar is derived from Urdu, meaning 'Four Pillars. The monument was built in 1591 by Muḥammad Qulī Quṭb Shah, the fifth king of the Quṭb Shāhī dynasty, reportedly as the first building in Hyderabad, his new capital. He commemorated the end of the plague by building a mosque, which became known as Charminar.",
+      "photoUrl": "https://newsmeter.in/h-upload/2023/03/23/342090-2023-03-23-180739.webp"
+    },
+    {
+      "name": "Golconda Fort",
+      "description": "Golconda fort is undoubtedly one of most magnificent fortress complexes in India. The history of Golconda Fort goes back to early 13th century, when it was ruled by the Kakatiya’s followed by Qutub Shahi kings, who ruled the region in 16th and 17th century. The fortress rests on a granite hill 120 meters high while huge crenellated ramparts surround this structure. Golconda still boasts of mounted cannons, four drawbridges, eight gateways, and majestic halls, magazines, stables etc. The outermost enclosure is called Fateh Darwaza meaning Victory gate, after Aurangzeb’s army marched successfully through this gate. Clapping your hand at a certain point near the dome entrance reverberates which is heard clearly at the hill top pavilion, almost one kilometer away. This served as a warning note to the inhabitants of the fort of any impending danger, Ofcourse it now amuses visitors.",
+      "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Golconda_Fort_005.jpg/800px-Golconda_Fort_005.jpg"
+    },
+    {
+      "name": "Ramoji Film City",
+      "description": "Ramoji Film City is an integrated film studio facility located in Hyderabad, India. Spread over 1,666 acres (674 ha), it holds the title of the largest film studio complex in the world, as certified by the Guinness World Records. Ramoji Film City tour offers behind the scenes experiences of live movie sets and shoots-in-progress. It can accommodate 50 film sets simultaneously and has a fake airport, hospital, railway station, laboratories, Tihar Jail, temples, churches, mosques, ancient caves (man-made), British and French residential societies, Mughal and Japanese gardens, and so on.",
+      "photoUrl": "https://holidayszone.in/images/sightseeing-places/hyderabad/ramoji-film-city-hyderabad.jpg"
+    }
+  ],
+  "outro": "Telangana is a state of historic monuments and a thriving modern cityscape."
+},
+{
+  "_id": {
+    "$oid": "66db4e6d89ca6b5ebd9ab460"
+  },
+  "name": "Tripura",
+  "capital": "Agartala",
+  "info": "Known for its lush green hills and diverse culture.",
+  "culturalDetails": "Famous for its tribal culture and ancient temples.",
+  "photoUrl": "https://example.com/photos/tripura.jpg",
+  "monuments": [
+    {
+      "name": "Ujjayanta Palace",
+      "description": "Welcome to Agartala, the capital city of Tripura, where the majestic Ujjayanta Palace stands as a testament to the region's rich history and cultural heritage. This iconic palace in Agartala, with its captivating blend of Hindu and Islamic architecture, serves not only as the seat of the Tripura Legislative Assembly but also as a prominent tourist destination. Ujjayanta Palace is the state museum of the Indian state of Tripura and former royal palace of the princely state of Tripura. It was built by Maharaja Radha Kishore Manikya in 1901. It is a two-story structure constructed in various styles. It has three towering domes, the largest of which is 86 ft tall. The beautiful tile floor, arched timber ceiling, and wonderfully crafted doors are the most striking features of the palace. Enormous Mughal-style gardens surround the palace with ponds, walkways, and tiled floors. The floodlights and fountains around the property add to its charm.",
+      "photoUrl": "https://i.pinimg.com/originals/19/2e/b5/192eb565a199dee3c606db0b5a29514d.jpg"
+    },
+    {
+      "name": "Neermahal",
+      "description": "Neermahal is India's largest and only one-of-a-kind water palace, as well as the only one in Eastern India. Neer Mahal translates to 'water palace'. It was the brainchild of Maharaja Bir Bikram Kishore Manikya Debbarma, one of the most famous kings of Tripura. Every year in the month of August a festival is observed by the locals called Neermahal Water Festival. The festival goes on for 3 days and many colourful cultural programmes and events take place in the evenings. One of the attractions of the Neermahal Water Festival is the boat race that happens in lake.",
+      "photoUrl": "https://static.toiimg.com/thumb/93561445/Neermahal-Tripura.jpg?width=1200&height=900"
+    },
+    {
+      "name": "Tripura Sundari Temple",
+      "description": "The temple is known for its unique Bengali-hut style architecture with a squared sanctum and a conical dome, which attracts architects and historians .significance of this place is quite strong as it is believed that Goddess Sati's right foot fell here during Lord Shiva's dance of cosmic destruction. Maharaja Dhanya Manikya founded the Tripura Sundari Temple in the year 1501. It is believed to be one of the holiest Hindu shrines in this part of the country and witnesses the highest number of visitors for a temple in North-East India, after Kamakhya Temple in Assam. The state of Tripura is named after this temple. Popularly known as Matabari, the shrine is set upon a small hillock that resembles the hump of a tortoise (Kurma). This shape called Kurmapṛṣṭhākṛti is considered the holiest possible site for a Shakti temple, hence also bestowing the name of Kurma Pīṭha. The Goddess is served by traditional Brahmin priests.",
+      "photoUrl": "https://www.holidify.com/images/cmsuploads/compressed/41948912_20180301115544.jpg"
+    }
+  ],
+  "outro": "Tripura is a state with rich cultural traditions and beautiful landscapes."
+},
+{
+  "_id": {
+    "$oid": "66db4e6d89ca6b5ebd9ab461"
+  },
+  "name": "Uttar Pradesh",
+  "capital": "Lucknow",
+  "info": "Known for its historical monuments and rich cultural heritage.",
+  "culturalDetails": "Famous for the Taj Mahal, Agra Fort, and the Ganges River.",
+  "photoUrl": "https://example.com/photos/uttar-pradesh.jpg",
+  "monuments": [
+    {
+      "name": "Taj Mahal",
+      "description": "The Taj Mahal was designated as a UNESCO World Heritage Site in 1983 for being “the jewel of Muslim art in India and one of the universally admired masterpieces of the world's heritage”. It is regarded by many as the best example of Mughal architecture and a symbol of India's rich history. Taj Mahal is one of the seven wonders of the world and a beautiful architectural monument by Shah Jahan to his love Mumtaz. Taj Mahal is one of the seven wonders of the world and a beautiful architectural monument by Shah Jahan to his love Mumtaz. In its harmonious proportions and its fluid incorporation of decorative elements, the Taj Mahal is distinguished as the finest example of Mughal architecture.",
+      "photoUrl": "https://www.tajmahalinagra.com/wp-content/uploads/2024/08/Taj-Mahal-Banner-55.jpg"
+    },
+    {
+      "name": "Agra Fort",
+      "description": "The fort was the site of a battle during the Indian rebellion of 1857, which caused the end of the British East India Company’s rule in India, and led to a century of direct rule of India by Britain. The Agra Fort presents an impressive blend of robustness along with ornamental beauty, aptly symbolizing the reign of its original builder- Akbar. His buildings were notable for the harmonious amalgamation of Hindu and Islamic elements of architecture, as well as the extensive use of red sandstone. Agra Fort is home to several exquisite structures and buildings, such as the Diwan-i-Am (Hall of Public Audience), Diwan-i-Khas (Hall of Private Audience), Khas Mahal, and the Sheesh Mahal (Mirror Palace).",
+      "photoUrl": "https://cdn.britannica.com/37/178637-050-22E50FA5/Jahangirs-Palace-Agra-Fort-India-Uttar-Pradesh.jpg"
+    },
+    {
+      "name": "Fatehpur Sikri",
+      "description": "Fatehpur Sikri is a fortified city in Uttar Pradesh, India that was the capital of the Mughal Empire for about 14 years. It's known for its blend of Islamic, Persian, and Indian architectural influences, and is a UNESCO World Heritage Site. Fatehpur Sikri is a symbol of Mughal power and a testament to Akbar's policy of religious tolerance. Fatehpur Sikri is known for its red sandstone walls, palaces, mosques, and administrative buildings. The Hiran Minar, which is 22 meters tall, is said to have been built in memory of Akbar's favorite elephant.",
+      "photoUrl": "https://lp-cms-production.imgix.net/2019-06/4ab905f975d2e8862e0a0f7187764075-jama-masjid.jpg?w=1920&h=640&fit=crop&crop=faces%2Cedges&auto=format&q=75"
+    }
+  ],
+  "outro": "Uttar Pradesh is a state of historical significance and cultural richness."
+},
+{
+  "_id": {
+    "$oid": "66db4e6d89ca6b5ebd9ab462"
+  },
+  "name": "Uttarakhand",
+  "capital": "Dehradun",
+  "info": "Known for its temples and natural beauty.",
+  "culturalDetails": "Famous for the Char Dham pilgrimage and its scenic landscapes.",
+  "photoUrl": "https://example.com/photos/uttarakhand.jpg",
+  "monuments": [
+    {
+      "name": "Char Dham",
+      "description": "The four sacred sites of the Char Dham yatra in Uttarakhand are: Badrinath: A sacred town in the Garhwal Himalayas, located between the Nar and Narayana mountain ranges. The temple is open for six months a year and is believed to have been established by Adi Shankaracharya in the 8th century. Kedarnath: A sacred site in the Char Dham yatra. Gangotri: A sacred site in the Char Dham yatra. Yamunotri: A sacred site in the Char Dham yatra The Char Dham yatra is a major pilgrimage circuit in Uttarakhand. Many Hindus believe that visiting the Char Dham sites can help them achieve moksha. The yatra is traditionally completed in 12 days, but it can also be completed in five days.",
+      "photoUrl": "https://www.newsonair.gov.in/wp-content/uploads/2024/05/char-dham.jpg"
+    },
+    {
+      "name": "Rishikesh",
+      "description": "Rishikesh, also spelt as Hrishikesh, is a city near Dehradun in the Indian state Uttarakhand. The northern part of Rishikesh is in the Dehradun district while the southern part is in the Pauri Garhwal district. It is situated on the right bank of the Ganges River and is a pilgrimage town for Hindus, with ancient sages and saints meditating there in search of higher knowledge.[1][2] There are numerous temples and ashrams built along the banks of the river.[3] It is known as the 'Gateway to the Garhwal Himalayas' and 'Yoga Capital of the World'. The city has hosted the annual International Yoga Festival on the first week of March since 1999. Rishikesh is a vegetarian-only and alcohol-free city.",
+      "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/7/74/Trayambakeshwar_Temple_VK.jpg"
+    },
+    {
+      "name": "Haridwar",
+      "description": "Located at the foothills of the Himalayas, Haridwar is a city of temples and ashrams and its pious ambience envelops everyone. Haridwar is one of the four holy Indian cities that host the Kumbh Mela, a pious gathering of millions of Hindu devotees every 12 years. The Ardh Kumbh is organised here every six years Haridwar is situated at a height of 314 m (1,030 ft) from the sea level, between Shivalik Hills in the North and Northeast and the Ganges River in the South. Haridwar also termed as 'Gateway to Gods' is known as Mayapuri, Kapila, Gangadwar as well. The best part is you can enjoy Haridwar hill station holidays at any time of the year.",
+      "photoUrl": "https://www.authenticindiatours.com/app/uploads/2022/04/Har-Ki-Pauri-Ghat-Haridwar-Uttarakhand-1400x550-c-default.jpg"
+    }
+  ],
+  "outro": "Uttarakhand is a state of spiritual significance and natural splendor."
+},
+{
+  "_id": {
+    "$oid": "66db4e6d89ca6b5ebd9ab463"
+  },
+  "name": "West Bengal",
+  "capital": "Kolkata",
+  "info": "Known for its cultural heritage and colonial architecture.",
+  "culturalDetails": "Famous for the Howrah Bridge, Victoria Memorial, and vibrant festivals.",
+  "photoUrl": "https://example.com/photos/west-bengal.jpg",
+  "monuments": [
+    {
+      "name": "Howrah Bridge",
+      "description": "An iconic landmark in Kolkata, the Howrah Bridge is a huge steel bridge over the Hooghly River. It is considered to be one of the longest cantilever bridges in the world. Also known as Rabindra Setu, it connects Howrah and Kolkata. It carries 100,000 vehicles and countless pedestrians daily. The whole steel construction of the Howrah Bridge was built using rivets instead of nuts and bolts. This iconic feature makes it stand out from every other bridge in the country.",
+      "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Howrah_bridge_at_night.jpg/1200px-Howrah_bridge_at_night.jpg"
+    },
+    {
+      "name": "Victoria Memorial",
+      "description": "The Victoria Memorial is a large marble monument on the Maidan in Central Kolkata, having its entrance on the Queen's Way. It was built between 1906 and 1921 by the Government of India. It is dedicated to the memory of Queen Victoria, the Empress of India from 1876 to 1901. Today, the memorial has been turned into a museum that has 25 galleries. It also houses paintings from the British Raj, along with memorabilia and manuscripts.",
+      "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Victoria_Memorial_situated_in_Kolkata.jpg/1200px-Victoria_Memorial_situated_in_Kolkata.jpg"
+    },
+    {
+      "name": "Sundarbans",
+      "description": "The Sundarbans is of universal importance for globally endangered species including the Royal Bengal Tiger, Ganges and Irawadi dolphins, estuarine crocodiles and the critically endangered endemic river terrapin (Batagur baska). It is the only mangrove habitat in the world for Panthera tigris tigris species. The Sundarbans is home to the world's largest mangrove forests, which are a breeding ground for many plants and animals The Sundarbans is a cluster of low-lying islands in the Bay of Bengal, spread across India and Bangladesh. It's the delta formed by the confluence of the Ganges, Brahmaputra, and Meghna Rivers.",
+      "photoUrl": "https://www.authenticindiatours.com/app/uploads/2022/04/Har-Ki-Pauri-Ghat-Haridwar-Uttarakhand-1400x550-c-default.jpg"
+    }
+  ],
+  "outro": "West Bengal is a state of historical richness and vibrant cultural traditions."
+},
+{
+  "_id": {
+    "$oid": "66db4e6d89ca6b5ebd9ab464"
+  },
+  "name": "Andaman and Nicobar Islands",
+  "capital": "Port Blair",
+  "info": "Known for its pristine beaches and marine life.",
+  "culturalDetails": "Famous for its beautiful beaches and historical sites.",
+  "photoUrl": "https://example.com/photos/andaman-nicobar.jpg",
+  "monuments": [
+    {
+      "name": "Cellular Jail",
+      "description": "The Cellular Jail, also known as 'Kālā Pānī' was a British colonial prison in the Andaman and Nicobar Islands. The prison was used by the colonial government of India for the purpose of exiling criminals and political prisoners. Many notable independence activists, including Sardar Singh Artillery, Diwan Singh Kalepani, Yogendra Shukla, Batukeshwar Dutt, Shadan Chandra Chatterjee, Sohan Singh, Vinayak Savarkar, Hare Krishna Konar, Shiv Verma, Allama Fazl-e-Haq Khairabadi, and Sudhanshu Dasgupta were imprisoned here during the struggle for India's independence. Today, the complex serves as a national memorial monument.",
+      "photoUrl": "https://elinepa.org/wp-content/uploads/2023/08/Kala-Pani-cover-800x415.jpg"
+    },
+    {
+      "name": "Radhanagar Beach",
+      "description": "Radhanagar Beach is a popular beach on Havelock Island in the Andaman and Nicobar Islands, India. It's known for its white sand, turquoise waters, and lush forest setting. The beach is a top destination for tourists and is consistently ranked among the best beaches in the world. Radhanagar Beach is known for its natural beauty, serene atmosphere, and stunning sunsets. Visitors can enjoy sunbathing, swimming, picnics, and leisurely strolls on the beach.",
+      "photoUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcReafV5hD644RvWRTd0oj9DJf6u91ehsGXxzQ&s"
+    },
+    {
+      "name": "Havelock Island",
+      "description": "Swaraj Dweep, is one of the largest islands in Ritchie's Archipelago, to the east of Great Andaman within the Andaman Islands. It belongs to the South Andaman administrative district, part of the Indian union territory of Andaman and Nicobar Islands. The island is 41 km (25 mi) northeast of the capital city, Port Blair. Havelock Island is famous for its stunning natural beauty, pristine beaches, and vibrant coral reefs. The Island also offers fantastic opportunities for snorkelling and scuba diving. It is part of the Andaman and Nicobar Islands, which are located in the Bay of Bengal, off the eastern coast of India. ",
+      "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/6/63/Havelock%2C_Andaman_%26_Nicobar_Islands.JPG"
+    }
+  ],
+  "outro": "The Andaman and Nicobar Islands are a paradise of beautiful beaches and vibrant marine life."
+},
+{
+  "_id": {
+    "$oid": "66db4e6d89ca6b5ebd9ab465"
+  },
+  "name": "Chandigarh",
+  "capital": "Chandigarh",
+  "info": "Known for its modern architecture and urban planning.",
+  "culturalDetails": "Famous for its planned city layout and landmarks like the Rock Garden.",
+  "photoUrl": "https://example.com/photos/chandigarh.jpg",
+  "monuments": [
+    {
+      "name": "Rock Garden",
+      "description": "The Rock Garden of Chandigarh is a sculpture garden in Chandigarh, India. It is also known as Nek Chand Saini's Rock Garden of Nathupur after its founder Nek Chand Saini, a government official who started building the garden secretly in his spare time in 1957. It has spread over an area of 40 acres (16 ha), and is completely built from industrial, home waste, and discarded items.  It consists of man-made interlinked waterfalls and many other sculptures that have been made of scrap and other kinds of waste (bottles, glasses, bangles, tiles, ceramic pots, sinks, electrical waste, broken pipes, etc.) which are placed in walled paths.",
+      "photoUrl": "https://miro.medium.com/v2/resize:fit:780/1*6cwYQsFdn3HaKUgZZbVpZw.jpeg\n"
+    },
+    {
+      "name": "Sukhna Lake",
+      "description": "Sukhna Lake in Chandigarh, India, is a reservoir at the foothills (Shivalik hills) of the Himalayas. This 3 km2 rain fed lake was created in 1958 by damming the Sukhna Choe, a seasonal stream coming down from the Shivalik Hills.  To preserve its tranquillity, Corbusier insisted on two things: that it be forbidden for motorboats to circulate in the water, and for vehicular traffic to be prohibited on top of the dam (promenade). The lake is fringed by a golf course to the south, and Nek Chand's famous Rock Garden of Chandigarh to its west. Sukhna is an inseparable part of the city of Chandigarh. The city planners were deeply attached to the lake. So much so that Pierre Jeanneret's ashes were immersed in the lake in 1970 at his niece's request.",
+      "photoUrl": "https://sun-b2b.s3.us-east-2.amazonaws.com/attraction/2023-03-09things11-43-25.jpg\n"
+    },
+    {
+      "name": "Zakir Hussain Rose Garden ",
+      "description": "Zakir Hussain Rose Garden, is a botanical garden in Chandigarh, India and spread over 30 acres (120,000 m2) of land,[1] with 50,000 rose-bushes of 1600 different species. Rose Garden has undergone several renovations and expansions. In 2003, a new section was added to the garden, which included a bonsai garden and a cactus house. In 2013, a rose festival was held at the garden to celebrate the 100th anniversary of the Indian Horticulture Society .The rose garden is also called 'The Floral Wonderland' Apart from serving as a host of other events, the Zakir Hussain Rose Garden serves as the venue for hosting an annual rose festival called Rose Festival, a major cultural event in Chandigarh during February or March. ",
+      "photoUrl": "https://static.cablo.cab/uploads/City/Places/20180806_7f26f627716.jpg "
+    }
+  ],
+  "outro": "Chandigarh is known for its modern architecture and well-planned cityscape."
+},
+{
+  "_id": {
+    "$oid": "66db4e6d89ca6b5ebd9ab466"
+  },
+  "name": "Dadra and Nagar Haveli and Daman and Diu",
+  "capital": "Daman",
+  "info": "Known for its coastal beauty and Portuguese heritage.",
+  "culturalDetails": "Famous for its beaches, forts, and colonial architecture.",
+  "photoUrl": "https://example.com/photos/dadra-nagar-haveli-daman-diu.jpg",
+  "monuments": [
+    {
+      "name": "Moti Daman Fort",
+      "description": "Moti Daman Fort is in the Union territory Daman and Diu, i.e. Daman. It is 112 sq.km. in size.[ The Fort formally built originally by the Mughals and later Strenghtened by the Portuguese,the Myth of the Material used by the Mughals to build the fort Stones sand and Jaggry has we say in india it does make sense since Jaggry when it is a solid state has elements of glue properties so its possible that it could well be Jaggry. Inside the fort, there are three main churches, Church of Bom Jesus, the Chapel of Our Lady of the Rosary and the Church of Our Lady of Remedies. Church of Bom Jesus is the most famous of them all.",
+      "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Fort_of_St.Jerome.JPG/1536px-Fort_of_St.Jerome.JPG\n"
+    },
+    {
+      "name": "Bom Jesus Church ",
+      "description": "Bom Jesus Church is a historical and religious landmark located in the Union Territory of Dadra and Nagar Haveli Daman and Diu in India. The church is situated in the town of Moti Daman, which is one of the two districts of Daman and Diu. It is a prominent example of Portuguese colonial architecture in India and an important pilgrimage site for the local Christian community. The Portuguese built the church in 1603, originally dedicated to the Virgin Mary. However, in the early 17th century, it was rededicated to the infant Jesus and renamed Bom Jesus Church. The church is known for its beautiful facade and ornate interior decorations, reflecting the Baroque architecture style popular during the colonial era. The church is known for its annual feast on the first Sunday of February, a grand celebration that attracts many devotees and tourists from all over the region. The church is decorated with lights and flowers during the feast, and a grand procession is taken out through the streets.",
+      "photoUrl": "https://cdnbbsr.s3waas.gov.in/s371e09b16e21f7b6919bbfc43f6a5b2f0/uploads/2020/09/2020092575-scaled.jpg\n"
+    },
+    {
+      "name": "Naida Caves",
+      "description": "Located outside the city wall of the Diu Fort, the Naida Caves are a group of interlinked caves constructed by the Portuguese. It is believed that these caves existed naturally earlier, but when the Portuguese took over the region, they used the orange-brown stone from them to make the majestic Diu Fort, leaving behind an interesting structure. These caves are a maze-like formation that are a delight to explore. Located outside the Diu fort, the caves are adorned with an intricate network of tunnels and huge step-like structures that make for a fascinating climb. The caves also provide good opportunities to photographers as the sunlight streaming through various cracks make the scene quite photogenic. Moreover, traversing through the rock-hewn structures and climbing over the steps is a thrilling experience that should not be missed.",
+      "photoUrl": "https://travelsetu.com/apps/uploads/new_destinations_photos/destination/2023/12/19/e2a261a1202897b80acf713d43f0b515_1000x1000.jpg\n"
+    }
+  ],
+  "outro": "Dadra and Nagar Haveli and Daman and Diu offer a blend of coastal beauty and colonial charm."
+},
+{
+  "_id": {
+    "$oid": "66db4e6d89ca6b5ebd9ab467"
+  },
+  "name": "Lakshadweep",
+  "capital": "Kavaratti",
+  "info": "Known for its coral reefs and stunning beaches.",
+  "culturalDetails": "Famous for its pristine islands and water sports.",
+  "photoUrl": "https://example.com/photos/lakshadweep.jpg",
+  "monuments": [
+    {
+      "name": "Bangaram Atoll",
+      "description": "Bangaram Atoll is a piece of the Lakshadweep archipelago, a gathering of 36 islands dissipated off the southwestern shore of India. This atoll, with its white sandy seashores and completely clear turquoise waters, is a tropical haven that draws in nature darlings and experience searchers the same. The island is uninhabited, giving an immaculate and perfect climate for guests to investigate. The atoll is a designated marine conservation area, ensuring the protection of its rich underwater ecosystem, including graceful sea turtles.",
+      "photoUrl": "https://static.toiimg.com/photo/106291053.cms"
+    },
+    {
+      "name": "Agatti Island",
+      "description": "Agatti Island is a 7.6 km long island, situated on a coral atoll called Agatti atoll in the Union Territory of Lakshadweep, India. It is 459 km (285 mi) west of the city of Kochi. Agatti has one of the most beautiful lagoons in Lakshadweep. The airport is built on this island. From the aircraft, as one approaches for a landing, one gets a breath-taking view of the airstrip on the island. Agatti is the virtual gateway to the islands. A 20-bed tourist complex with all modern amenities has been set up here. Indian Airlines operate flight to Agatti making it one of the most accessible islands in Lakshadweep. Water sports activities such as scuba diving, wind surfing, snorkeling, surfing, kayaking, canoeing, water skiing, sportfishing, yachting and night sea voyages are popular activities among tourists. Tourists flock to these islands throughout the year, except during the southwest monsoon months when seas are extremely rough.",
+      "photoUrl": "https://media2.thrillophilia.com/images/photos/000/359/275/original/1603547546_lakshadweep-tour.jpg?width=1600&height=775"
+    },
+    {
+      "name": "Kavaratti Beach",
+      "description": "Kavaratti is the Headquarters of the Administration and the most developed island. Fifty-two mosques are spread out over the island, the most beautiful being the Ujra mosque. Water from a well near the mosque is believed to have curative powers. The beautiful and calm lagoon offers an ideal spot for water sports, swimming and snorkeling. Sunbathing or just lazing around on the beach can be a heady experience. Marine life enthusiasts can visit the marine aquarium, which has an excellent collection of aquatic specimens. The multicoloured underwater life in the lagoons can be viewed through glass-bottomed boats. Kayaks, wind surfers and sailing boats are available on hire. The Dolphin Dive Centre is an attraction for those who love scuba dive. ‘Coral reef ‘and ‘Taratashi’ tourist packages can be availed to visit this coral paradise.",
+      "photoUrl": "https://lakshadweepvoyage.com/wp-content/uploads/2017/08/kavaratti.jpg"
+    }
+  ],
+  "outro": "Lakshadweep is a tropical paradise with stunning coral reefs and beautiful beaches."
+},
+{
+  "_id": {
+    "$oid": "66db4e6d89ca6b5ebd9ab468"
+  },
+  "name": "Delhi",
+  "capital": "New Delhi",
+  "info": "The capital city of India known for its historical landmarks.",
+  "culturalDetails": "Famous for the Red Fort, Qutub Minar, and vibrant street life.",
+  "photoUrl": "https://example.com/photos/delhi.jpg",
+  "monuments": [
+    {
+      "name": "Red Fort",
+      "description": "The Red Fort, also known as Lal Qila (Hindustani: [laːl qiːlaː]) is a historic fort in Delhi, India, that historically served as the main residence of the Mughal emperors. Emperor Shah Jahan commissioned construction of the Red Fort on 12 May 1639, when he decided to shift his capital from Agra to Delhi. Originally red and white, its design is credited to architect Ustad Ahmad Lahori, who also constructed the Taj Mahal.  It is a monument of national significance; every year on India's Independence Day (15 August), the prime minister of India hoists the country's flag at the Red Fort and delivers a nationally broadcast speech from its ramparts.[ The fort also appears on the back of the ₹500 note of the Mahatma Gandhi New Series of the Indian rupee.",
+      "photoUrl": "https://cdn.britannica.com/20/189820-050-D650A54D/Red-Fort-Old-Delhi-India.jpg"
+    },
+    {
+      "name": "Qutub Minar",
+      "description": "The Qutb Minar, also spelled Qutub Minar and Qutab Minar, is a minaret and 'victory tower' that forms part of the Qutb complex, which lies at the site of Delhi's oldest fortified city, Lal Kot, founded by the Tomar Rajputs.[3] It is a UNESCO World Heritage Site in the Mehrauli area of South Delhi, India. It was mostly built between 1199 and 1220, contains 399 steps, and is one of the most visited tourist spots in the city. It is usually thought that the tower is named for Qutb-ud-din Aibak, who began it. It is also possible that it is named after Khwaja Qutbuddin Bakhtiar Kaki a 13th-century sufi saint, because Shamsuddin Iltutmish was a devotee of his. In recent years, the Qutub Minar has been illuminated for special occasions involving international relations. In September 2023, the monument was lit up in the colors of the Mexican flag to celebrate Mexico's 213th Independence Day, an event that was acknowledged and appreciated by the Embassy of Mexico in India.[13] Similarly, on October 30, the Qutub Minar was illuminated with the Turkish flag to commemorate the 100th anniversary of the Republic of Turkey, an occasion that received special attention from the Turkish Embassy in New Delhi.",
+      "photoUrl": "https://cdn-ijnhp.nitrocdn.com/pywIAllcUPgoWDXtkiXtBgvTOSromKIg/assets/images/optimized/rev-5794eaa/www.jaypeehotels.com/blog/wp-content/uploads/2023/11/Blog-5.jpg"
+    },
+    {
+      "name": "India Gate",
+      "description": "The India Gate (formerly known as All India War Memorial) is a war memorial located near the Rajpath (officially called Kartavya path) on the eastern edge of the 'ceremonial axis' of New Delhi. It stands as a memorial to 74,187 soldiers of the Indian Army who died between 1914 and 1921 in the First World War, in France, Flanders, Mesopotamia, Persia, East Africa, Gallipoli and elsewhere in the Near and the Far East, and the Third Anglo-Afghan War. 13,300 servicemen's names, including some soldiers and officers from the United Kingdom, are inscribed on the gate. India Gate is counted amongst the largest war memorials in India and every Republic Day, the Prime Minister visits the Gate to pay their tributes to the Amar Jawan Jyoti, following which the Republic Day parade starts. India Gate is often a location for civil society protests, and is popular with tourists.",
+      "photoUrl": "https://www.fabhotels.com/blog/wp-content/uploads/2019/06/India-Gate_1400-1024x439.jpg"
+    }
+  ],
+  "outro": "Delhi is a city of historical landmarks, vibrant culture, and modern amenities."
+},
+{
+  "_id": {
+    "$oid": "66db4ec189ca6b5ebd9ab46a"
+  },
+  "name": "Puducherry",
+  "capital": "Puducherry",
+  "info": "Known for its French colonial architecture and serene beaches.",
+  "culturalDetails": "Famous for its Auroville and charming colonial streets.",
+  "photoUrl": "https://example.com/photos/puducherry.jpg",
+  "monuments": [
+    {
+      "name": "Auroville",
+      "description": "Auroville is a universal township in the making for a population of up to 50,000 people from around the world. Today Auroville is recognised as the first and only internationally endorsed ongoing experiment in human unity and transformation of consciousness, also concerned with - and practically researching into - sustainable living and the future cultural, environmental, social and spiritual needs of mankind. The concept of Auroville - an ideal township devoted to an experiment in human unity - came to the Mother as early as the 1930s. In the mid 1960s the concept was developed and put before the Govt. of India, who gave their backing and took it to the General Assembly of UNESCO.",
+      "photoUrl": "https://travelsetu.com/apps/uploads/new_destinations_photos/destination/2024/01/18/83c2c09b50e4d3041b84b60da5947881_1000x1000.jpg"
+    },
+    {
+      "name": "Sri Aurobindo Ashram",
+      "description": "Built in 1896, the Aurobindo Ashram (also known as Aurobindo Nivas) at Dandia Bazaar is Vadodara's only National Memorial. The place was home to Sri Aurobindo, India's leading philosopher, litterateur and poet. The people of the Ashram are devotees of Sri Aurobindo and the Mother and are considered to have consecrated their lives to Integral Yoga. At Pondicherry, Sri Aurobindo developed a spiritual practice he called Integral Yoga. The central theme of his vision was the evolution of human life into a divine life in a divine body. He believed in a spiritual realisation that not only liberated but transformed human nature, enabling a divine life on earth.",
+      "photoUrl": "https://static.toiimg.com/thumb/49981867/Sri_Aurobindo_Ashram_Pondicherry.jpg?width=1200&height=900"
+    },
+    {
+      "name": "French War Memorial",
+      "description": "The French War Memorial in Puducherry, India (French: Monument aux combattants des Indes francaises morts pour la patrie) is a war memorial dedicated to residents of French India who died for the country during the First World War. It is on Goubert Avenue in Puducherry, located opposite to the Gandhi statue. The memorial is decorated and illuminated yearly on Bastille Day (14 July) in honour of the soldiers from the colony who took part in World War I. French government officials visit the memorial on occasion and lay flowers at the foot of the monument.",
+      "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/French_War_memorial.JPG/1200px-French_War_memorial.JPG"
+    }
+  ],
+  "outro": "Puducherry is known for its colonial charm, serene beaches, and spiritual atmosphere."
+},
+{
+  "_id": {
+    "$oid": "66db4ec189ca6b5ebd9ab46b"
+  },
+  "name": "Ladakh",
+  "capital": "Leh",
+  "info": "Known for its high-altitude landscapes and Buddhist monasteries.",
+  "culturalDetails": "Famous for its unique culture, monasteries, and stunning mountain scenery.",
+  "photoUrl": "https://example.com/photos/ladakh.jpg",
+  "monuments": [
+    {
+      "name": "Shanti Stupa",
+      "description": "The Shanti Stupa was built to promote world peace and prosperity and to commemorate 2500 years of Buddhism. It is considered a symbol of the ties between the people of Japan and India. To reach Chantis Stupa, climb 500 steps and you will find Buddhist cairns on both sides. The structure is milky white; the height is two stories, and there is a dome at the top. Shanti Stupa is a Buddhist white-domed Stupa (chorten) on a hilltop in Chanspa, Leh district, Ladakh, in north India.[1] It was built in 1991 by Japanese Buddhist Bhikshu, Gyomyo Nakamura. The Shanti Stupa holds the relics of the Buddha at its base, enshrined by the 14th Dalai Lama.",
+      "photoUrl": "https://media1.thrillophilia.com/filestore/incr8e1ls7vwnw6hmzee2d76safs_shutterstock_28393609.jpg"
+    },
+    {
+      "name": "Hemis Monastery",
+      "description": "Hemis Monastery is the very venue of the famous Hemis festival, a colourful carnival celebrated annually in honour of Guru Padmasambhava, who brought Buddhism to Tibet. The event sees a swarm of monks performing an enchanting mask dance. The monastery was first established in the 11th century and later re-established in the 17th century by the Ladakhi King Sengge Namgyal. Travelling to Hemis monastery itself is a thrilling experience and the surroundings make the journey a memorable one. Hemis Monastry is the wealthiest monastery in India and famous for its rich collection of ancient remnants like the statue of Buddha made of copper, stupas made of gold and silver.",
+      "photoUrl": "https://www.shikhar.com/blog/wp-content/uploads/2022/12/Hemis-Monastery.jpg"
+    },
+    {
+      "name": "Pangong Lake",
+      "description": "In Ladakh, you never know what surprise nature has in store for you. Pangong Lake, situated at a height of almost 4,350m, is the world's highest saltwater lake. The fascinating fact about Pangong Lake is that it has saline water and even then the water freezes and also because of this the lake cannot have any kind of vegetation or even aquatic life. This place is paradise for bird lovers especially with sightings of other birds like rodents that are said to grow up to the size of a dog. For activities, you can camp on the shores of this lake and this one is going to be sheer delight for adventure enthusiasts.",
+      "photoUrl": "https://www.google.com/imgres?imgurl=https%3A%2F%2Fstatic.toiimg.com%2Fthumb%2F105293416%2FPangong-Lake-Ladakh.jpg%3Fwidth%3D1200%26height%3D900&tbnid=9wWLACcu1UaPbM&vet=1&imgrefurl=https%3A%2F%2Ftimesofindia.indiatimes.com%2Ftravel%2Fdestinations%2Feverything-you-wanted-to-know-about-pangong-lake-in-ladakh%2Farticleshow%2F105293415.cms&docid=tSoM0xO4gqMp4M&w=1200&h=900&hl=en-US&source=sh%2Fx%2Fim%2Fm1%2F4&kgs=39b0e45e12f31f8f&shem=abme%2Ctrie"
+    }
+  ],
+  "outro": "Ladakh is a region of breathtaking landscapes, ancient monasteries, and serene beauty."
+},
+{
+  "_id": {
+    "$oid": "66db4ec189ca6b5ebd9ab46c"
+  },
+  "name": "Jammu and Kashmir",
+  "capital": "Srinagar",
+  "info": "Known for its beautiful landscapes, gardens, and historical sites.",
+  "culturalDetails": "Famous for its gardens, Dal Lake, and Mughal architecture.",
+  "photoUrl": "https://example.com/photos/jammu-kashmir.jpg",
+  "monuments": [
+    {
+      "name": "Dal Lake",
+      "description": "Nestling amidst lush green forests of deodar trees, the Dal Lake is famous for its scenic beauty and pilgrimage center. It is integral to tourism and recreation in Kashmir and is named the 'Lake of Flowers', 'Jewel in the crown of Kashmir' or 'Srinagar's Jewel'. The lake is also an important source for commercial operations in fishing and water harvesting. Dal Lake in Srinagar is a timeless testament to the natural beauty, historical significance, and cultural richness of Kashmir. From its serene waters to its lush surroundings, the lake exudes an aura of tranquility and splendor that captivates the senses and nourishes the soul.",
+      "photoUrl": "https://media1.thrillophilia.com/filestore/syan611ikyyywjjjyv3684ubczm6_3175e4197867ffa61a3f598de892a2b5.jpg"
+    },
+    {
+      "name": "Shankaracharya Temple",
+      "description": "The Shankaracharya Temple or Jyeshteshwara Temple is a Hindu temple situated on top of the Zabarwan Range in Srinagar in the union territory of Jammu and Kashmir. It is dedicated to Shiva. The temple is at a height of 1,000 feet above the valley floor and overlooks the city of Srinagar. It is believed that Shankaracharya, to revive Hinduism and unify various schools of thought, visited Kashmir to advance Vedantic knowledge. The Shankaracharya Hill and the temple, since then, have been a symbol of his teachings and philosophy.",
+      "photoUrl": "https://static.wanderon.in/wp-content/uploads/2024/03/shankaracharya-temple.jpg"
+    },
+    {
+      "name": "Mughal Gardens",
+      "description": "Mughal Gardens are a type of garden built by the Mughals. This style was influenced by the Persian gardens particularly the Charbagh structure, which is intended to create a representation of an earthly utopia in which humans co-exist in perfect harmony with all elements of nature. The six Mughal Gardens in Kashmir can also be seen as an integral part of the Kashmir Cultural Landscape and particularly in the case of the four gardens in Srinagar, they also form an integral part of the wider urban landscape of the city and Dal Lake.",
+      "photoUrl": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/12/68/f4/db/chasme-sahi.jpg?w=1200&h=-1&s=1"
+    }
+  ],
+  "outro": "Jammu and Kashmir is renowned for its picturesque landscapes, historic sites, and rich culture."
+}]

@@ -1,0 +1,126 @@
+/* Sidebar Styles */
+.sidebar {
+    position: fixed;
+    right: -300px; /* Initially hidden (off-screen) */
+    top: 0;
+    height: 100%;
+    width: 250px;
+    background-color: rgba(0, 0, 0, 0.8)    ; /* Transparent black background */
+    color: #333;
+    padding: 40px 20px; /* Padding for better spacing */
+    transition: right 0.3s ease;
+    box-shadow: -2px 0 10px rgba(0, 0, 0, 0.6);
+    z-index: 1000;
+    margin-top: 113px;
+}
+
+.sidebar.open {
+    margin-top: 113px;
+    right: 0; /* Slide in when open */
+}
+
+.sidebar ul {
+    list-style-type: none;
+    padding: 0;
+    margin-top: 10px;
+}
+
+.sidebar ul li {
+    margin: 0; /* Reset margin */
+    margin-top: 25px;
+    padding: 15px 0; /* Add padding for spacing */
+    border-bottom: 1px solid rgba(255, 255, 255, 0.2); /* Separate each item with a subtle line */
+    display: flex;
+    align-items: center;
+}
+
+.sidebar ul li a {
+    color: #fff ;
+    text-decoration: none;
+    font-size: 1.2rem;
+    font-weight: 500;
+    width: 100%;
+}
+
+.sidebar ul li:hover {
+    background-color: rgba(255, 255, 255, 0.1); /* Subtle hover effect */
+}
+
+.sidebar ul li a:hover {
+    text-decoration: none;
+}
+
+/* Close button */
+.toggle-btn {
+    background-color: transparent;
+    color: white;
+    border: none;
+    font-size: 1.8rem;
+    position: absolute;
+    right: 70px;
+    top: 35px;
+    z-index: 1100;
+    cursor: pointer;
+}
+
+.toggle-btn:hover {
+    color: #ddd;
+}
+
+/* Header styles */
+.header {
+    background-color: #333;
+    color: #fff;
+    padding: 10px 0;
+    position: fixed; /* Make the header fixed */
+    top: 0; /* Stick it to the top */
+    width: 100%; /* Ensure the header spans the full width */
+    z-index: 1200; /* Ensure the header stays on top of other elements */
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); /* Optional: add shadow for depth */
+}
+
+.container {
+    width: 80%;
+    margin: 0 auto;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.logo {
+    font-size: 24px;
+    margin: 0;
+}
+
+.logo-img {
+    width: 150px; /* Adjust size as needed */
+    height: auto;
+    margin-right: 0; /* Reduce the margin to bring them closer */
+}
+
+nav ul {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    display: flex;
+}
+
+nav ul li {
+    margin: 0 15px;
+}
+
+nav ul li a {
+    color: #fff;
+    text-decoration: none;
+    font-size: 18px;
+}
+
+nav ul li a:hover {
+    text-decoration: underline;
+}
+
+/* Adjust the body margin to compensate for the fixed header */
+body {
+    margin-top: 70px; /* Adjust based on the header height */
+    transition: margin-right 0.3s ease;
+}

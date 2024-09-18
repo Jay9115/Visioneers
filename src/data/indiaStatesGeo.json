@@ -1,0 +1,186 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+      {
+        "type": "Feature",
+        "properties": { "name": "Andhra Pradesh" },
+        "geometry": { "type": "Point", "coordinates": [80.737, 14.380] }
+      },
+      {
+        "type": "Feature",
+        "properties": { "name": "Arunachal Pradesh" },
+        "geometry": { "type": "Point", "coordinates": [94.000, 28.000] }
+      },
+      {
+        "type": "Feature",
+        "properties": { "name": "Assam" },
+        "geometry": { "type": "Point", "coordinates": [92.500, 26.500] }
+      },
+      {
+        "type": "Feature",
+        "properties": { "name": "Bihar" },
+        "geometry": { "type": "Point", "coordinates": [85.500, 25.500] }
+      },
+      {
+        "type": "Feature",
+        "properties": { "name": "Chhattisgarh" },
+        "geometry": { "type": "Point", "coordinates": [81.500, 21.000] }
+      },
+      {
+        "type": "Feature",
+        "properties": { "name": "Goa" },
+        "geometry": { "type": "Point", "coordinates": [74.000, 15.500] }
+      },
+      {
+        "type": "Feature",
+        "properties": { "name": "Gujarat" },
+        "geometry": { "type": "Point", "coordinates": [72.500, 22.500] }
+      },
+      {
+        "type": "Feature",
+        "properties": { "name": "Haryana" },
+        "geometry": { "type": "Point", "coordinates": [76.500, 28.000] }
+      },
+      {
+        "type": "Feature",
+        "properties": { "name": "Himachal Pradesh" },
+        "geometry": { "type": "Point", "coordinates": [77.000, 31.500] }
+      },
+      {
+        "type": "Feature",
+        "properties": { "name": "Jharkhand" },
+        "geometry": { "type": "Point", "coordinates": [85.500, 23.500] }
+      },
+      {
+        "type": "Feature",
+        "properties": { "name": "Karnataka" },
+        "geometry": { "type": "Point", "coordinates": [75.000, 13.500] }
+      },
+      {
+        "type": "Feature",
+        "properties": { "name": "Kerala" },
+        "geometry": { "type": "Point", "coordinates": [76.500, 10.000] }
+      },
+      {
+        "type": "Feature",
+        "properties": { "name": "Madhya Pradesh" },
+        "geometry": { "type": "Point", "coordinates": [78.500, 23.500] }
+      },
+      {
+        "type": "Feature",
+        "properties": { "name": "Maharashtra" },
+        "geometry": { "type": "Point", "coordinates": [73.500, 19.500] }
+      },
+      {
+        "type": "Feature",
+        "properties": { "name": "Manipur" },
+        "geometry": { "type": "Point", "coordinates": [93.500, 24.500] }
+      },
+      {
+        "type": "Feature",
+        "properties": { "name": "Meghalaya" },
+        "geometry": { "type": "Point", "coordinates": [91.500, 25.500] }
+      },
+      {
+        "type": "Feature",
+        "properties": { "name": "Mizoram" },
+        "geometry": { "type": "Point", "coordinates": [92.500, 23.500] }
+      },
+      {
+        "type": "Feature",
+        "properties": { "name": "Nagaland" },
+        "geometry": { "type": "Point", "coordinates": [94.500, 26.000] }
+      },
+      {
+        "type": "Feature",
+        "properties": { "name": "Odisha" },
+        "geometry": { "type": "Point", "coordinates": [85.000, 20.000] }
+      },
+      {
+        "type": "Feature",
+        "properties": { "name": "Punjab" },
+        "geometry": { "type": "Point", "coordinates": [75.000, 31.000] }
+      },
+      {
+        "type": "Feature",
+        "properties": { "name": "Rajasthan" },
+        "geometry": { "type": "Point", "coordinates": [73.500, 26.500] }
+      },
+      {
+        "type": "Feature",
+        "properties": { "name": "Sikkim" },
+        "geometry": { "type": "Point", "coordinates": [88.500, 27.500] }
+      },
+      {
+        "type": "Feature",
+        "properties": { "name": "Tamil Nadu" },
+        "geometry": { "type": "Point", "coordinates": [78.500, 10.500] }
+      },
+      {
+        "type": "Feature",
+        "properties": { "name": "Telangana" },
+        "geometry": { "type": "Point", "coordinates": [79.000, 17.000] }
+      },
+      {
+        "type": "Feature",
+        "properties": { "name": "Tripura" },
+        "geometry": { "type": "Point", "coordinates": [91.500, 23.500] }
+      },
+      {
+        "type": "Feature",
+        "properties": { "name": "Uttar Pradesh" },
+        "geometry": { "type": "Point", "coordinates": [80.500, 27.000] }
+      },
+      {
+        "type": "Feature",
+        "properties": { "name": "Uttarakhand" },
+        "geometry": { "type": "Point", "coordinates": [79.500, 30.000] }
+      },
+      {
+        "type": "Feature",
+        "properties": { "name": "West Bengal" },
+        "geometry": { "type": "Point", "coordinates": [88.500, 22.500] }
+      },
+      {
+        "type": "Feature",
+        "properties": { "name": "Andaman and Nicobar Islands" },
+        "geometry": { "type": "Point", "coordinates": [93.000, 11.500] }
+      },
+      {
+        "type": "Feature",
+        "properties": { "name": "Chandigarh" },
+        "geometry": { "type": "Point", "coordinates": [76.800, 30.800] }
+      },
+      {
+        "type": "Feature",
+        "properties": { "name": "Dadra and Nagar Haveli and Daman and Diu" },
+        "geometry": { "type": "Point", "coordinates": [73.000, 20.000] }
+      },
+      {
+        "type": "Feature",
+        "properties": { "name": "Lakshadweep" },
+        "geometry": { "type": "Point", "coordinates": [72.700, 10.200] }
+      },
+      {
+        "type": "Feature",
+        "properties": { "name": "Delhi" },
+        "geometry": { "type": "Point", "coordinates": [77.100, 28.600] }
+      },
+      {
+        "type": "Feature",
+        "properties": { "name": "Puducherry" },
+        "geometry": { "type": "Point", "coordinates": [79.850, 11.950] }
+      },
+      {
+        "type": "Feature",
+        "properties": { "name": "Ladakh" },
+        "geometry": { "type": "Point", "coordinates": [77.577, 34.152] }
+      },
+      {
+        "type": "Feature",
+        "properties": { "name": "Jammu & Kashmir" },
+        "geometry": { "type": "Point", "coordinates": [74.797, 34.083] }
+    }
+    
+    ]
+}

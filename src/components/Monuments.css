@@ -1,0 +1,99 @@
+.monuments-page {
+    padding: 20px;
+    text-align: center;
+    background-image: url('../assets/monument-bg.jpg');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    min-height: 780px;
+}
+.mon-container{
+    margin-top: 30px;
+    background-color: rgba(0, 0, 0, 0.75);
+    color: #fff;
+    padding: 30px;
+    border-radius: 15px;    
+    box-shadow: 0px 4px 12px rgba(0, 0, 0, 0.4);
+}
+.monuments-page h1 {
+    font-size: 2.5rem;
+    margin-bottom: 10px;
+}
+
+.monuments-page p {
+    font-size: 1.2rem;
+    margin-bottom: 30px;
+}
+
+.monuments-cards-container {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
+    gap: 20px;
+    justify-items: center;
+}
+
+.monuments-card-link {
+    text-decoration: none;
+    color: inherit;
+    width: 100%;
+    height: 100%;
+    max-height: 500px;
+    max-width: 5000px;
+    margin-top: 100px;
+    margin-bottom: 250px;
+}
+
+.monuments-card {
+    background-color: #f9f9f9;
+    border-radius: 10px;
+    padding: 20px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    transition: transform 0.2s ease-in-out;
+    cursor: pointer;
+    height: 100%;
+}
+
+.monuments-card:hover {
+    transform: translateY(-5px);
+}
+
+.monuments-info {
+    margin-bottom: 10px;
+}
+
+.monuments-info h3 {
+    font-size: 1.5rem;
+    margin-bottom: 10px;
+}
+
+.monuments-info p {
+    font-size: 1rem;
+    color: #555;
+}
+
+.monuments-image img {
+    width: 100%;
+    height: auto;
+    border-radius: 10px;
+    margin: 15px 0;
+}
+
+.more-soon {
+    margin-top: 200px;
+    font-size: 1.2rem;
+    color: #777;
+}
+
+/* Media Queries for responsiveness */
+@media (min-width: 768px) {
+    .monuments-cards-container {
+        grid-template-columns: repeat(2, 1fr);
+    }
+}
+
+@media (max-width: 768px) {
+    .monuments-cards-container {
+        grid-template-columns: 1fr;
+    }
+}
