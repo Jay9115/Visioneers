@@ -1,31 +1,30 @@
-import React from "react";
-import { Unity, useUnityContext } from "react-unity-webgl";
+import React from 'react';
+import { BrowserRouter as Router, Route, Routes } from 'react-router-dom';
+import Header from './components/Header';
+import Home from './components/Home';
+import StatePage from './components/StatePage';
+import MapComponent from './components/MapComponent';
+import Festival from './components/Festival';
+import Monument from './components/Monument';
+import ThreeDModel from './components/ThreeDModel';
+import FestivalDetail from './components/FestivalDetail';
+import Model from './components/Model';
+import './App.css';
 
 function App() {
-  const { unityProvider, isLoaded, loadingProgression, requestFullscreen } = useUnityContext({
-    loaderUrl: "build/webb.loader.js",
-    dataUrl: "build/webb.data",
-    frameworkUrl: "build/webb.framework.js",
-    codeUrl: "build/webb.wasm",
-  });
-
-  const loadingPercentage = Math.round(loadingProgression * 100);
-
-  return (
-    <div className="container">
-      {isLoaded === false && (
-        <div className="loading-overlay">
-          <p>Loading... ({loadingPercentage}%)</p>
-        </div>
-      )}
-      <div className="unity-container">
-        <Unity className="unity" unityProvider={unityProvider} />
-        <button className="fullscreen-button" onClick={() => requestFullscreen(true)}>
-          Fullscreen
-        </button>
-      </div>
-    </div>
-  );
+    return (
+        <Router>
+            <Header />
+            <Routes>
+                <Route path="/" element={<Home />} />
+                <Route path="/state/:id" element={<StatePage />} />
+                <Route path="/map" element={<MapComponent />} />
+                <Route path="/festivals" element={<Festival />} />
+                <Route path="/monuments" element={<Monument />} />
+                <Route path="/3d" element={<Model/>} />
+                <Route path="/festivals/:id" element={<FestivalDetail />} />
+            </Routes>
+        </Router>
+    );
 }
-
 export default App;
