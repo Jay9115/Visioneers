@@ -39,7 +39,7 @@ const Header = () => {
                 <ul>
                     <li>
                         <Link to="/map" onClick={closeSidebar}>
-                            <FontAwesomeIcon icon={faMapMarkerAlt} /> Map
+                            <FontAwesomeIcon icon={faMapMarkerAlt} /> Map2
                         </Link>
                     </li>
                     <li>
